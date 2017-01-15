@@ -6,23 +6,23 @@ continent: Asia
 title:  "Bangkok, Thailand, Asia"
 date:   2014-11-02 15:44:43 +0000
 categories: asia thailand
-thumbnail: <img class="img-responsive" src="/img/thumbnails/bangkok-9.jpg" alt="Bangkok Thailand" />
+thumbnail: <img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/bangkok-9.jpg" alt="Bangkok Thailand" />
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="/img/countries/thailand/bangkok-1.jpg" alt="Bangkok, Thailand, Asia"/>
-	<img class="img-responsive" src="/img/countries/thailand/bangkok-2.jpg" alt="Bangkok, Thailand, Asia"/>
-	<img class="img-responsive" src="/img/countries/thailand/bangkok-3.jpg" alt="Bangkok, Thailand, Asia"/>
-	<img class="img-responsive" src="/img/countries/thailand/bangkok-4.jpg" alt="Bangkok, Thailand, Asia"/>
-	<img class="img-responsive" src="/img/countries/thailand/bangkok-6.jpg" alt="Bangkok, Thailand, Asia"/>
-	<img class="img-responsive" src="/img/countries/thailand/bangkok-7.jpg" alt="Bangkok, Thailand, Asia"/>
-	<img class="img-responsive" src="/img/countries/thailand/bangkok-8.jpg" alt="Bangkok, Thailand, Asia"/>
-	<img class="img-responsive" src="/img/countries/thailand/bangkok-9.jpg" alt="Bangkok, Thailand, Asia"/>
-	<img class="img-responsive" src="/img/countries/thailand/bangkok-10.jpg" alt="Bangkok, Thailand, Asia"/>
-	<img class="img-responsive" src="/img/countries/thailand/bangkok-11.jpg" alt="Bangkok, Thailand, Asia"/>
-	<img class="img-responsive" src="/img/countries/thailand/bangkok-12.jpg" alt="Bangkok, Thailand, Asia"/>
-	<img class="img-responsive" src="/img/countries/thailand/bangkok-14.jpg" alt="Bangkok, Thailand, Asia"/>
-	<img class="img-responsive" src="/img/countries/thailand/bangkok-15.jpg" alt="Bangkok, Thailand, Asia"/>
-	<img class="img-responsive" src="/img/countries/thailand/bangkok-16.jpg" alt="Bangkok, Thailand, Asia"/>
-	<img class="img-responsive" src="/img/countries/thailand/bangkok-17.jpg" alt="Bangkok, Thailand, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/thailand/bangkok-1.jpg" alt="Bangkok, Thailand, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/thailand/bangkok-2.jpg" alt="Bangkok, Thailand, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/thailand/bangkok-3.jpg" alt="Bangkok, Thailand, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/thailand/bangkok-4.jpg" alt="Bangkok, Thailand, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/thailand/bangkok-6.jpg" alt="Bangkok, Thailand, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/thailand/bangkok-7.jpg" alt="Bangkok, Thailand, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/thailand/bangkok-8.jpg" alt="Bangkok, Thailand, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/thailand/bangkok-9.jpg" alt="Bangkok, Thailand, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/thailand/bangkok-10.jpg" alt="Bangkok, Thailand, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/thailand/bangkok-11.jpg" alt="Bangkok, Thailand, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/thailand/bangkok-12.jpg" alt="Bangkok, Thailand, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/thailand/bangkok-14.jpg" alt="Bangkok, Thailand, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/thailand/bangkok-15.jpg" alt="Bangkok, Thailand, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/thailand/bangkok-16.jpg" alt="Bangkok, Thailand, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/thailand/bangkok-17.jpg" alt="Bangkok, Thailand, Asia"/>
 </div>

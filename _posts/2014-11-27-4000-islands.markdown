@@ -6,13 +6,13 @@ continent: Asia
 title:  "4000 islands, Laos, Asia"
 date:   2014-11-27 15:44:43 +0000
 categories: asia laos
-thumbnail: <img class="img-responsive" src="/img/thumbnails/4000islands-1.jpg" alt="4000 islands Laos" />
+thumbnail: <img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/4000islands-1.jpg" alt="4000 islands Laos" />
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="/img/countries/laos/4000islands-1.jpg" alt="4000 islands, Laos, Asia"/>
-	<img class="img-responsive" src="/img/countries/laos/4000islands-2.jpg" alt="4000 islands, Laos, Asia"/>
-	<img class="img-responsive" src="/img/countries/laos/4000islands-3.jpg" alt="4000 islands, Laos, Asia"/>
-	<img class="img-responsive" src="/img/countries/laos/4000islands-4.jpg" alt="4000 islands, Laos, Asia"/>
-	<img class="img-responsive" src="/img/countries/laos/4000islands-5.jpg" alt="4000 islands, Laos, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/laos/4000islands-1.jpg" alt="4000 islands, Laos, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/laos/4000islands-2.jpg" alt="4000 islands, Laos, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/laos/4000islands-3.jpg" alt="4000 islands, Laos, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/laos/4000islands-4.jpg" alt="4000 islands, Laos, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/laos/4000islands-5.jpg" alt="4000 islands, Laos, Asia"/>
 </div>

@@ -6,13 +6,13 @@ continent: Asia
 title:  "Melaka, Malaysia, Asia"
 date:   2015-02-22 15:44:43 +0000
 categories: asia malaysia
-thumbnail: <img class="img-responsive" src="/img/thumbnails/melaka-3.jpg" alt="Melaka Malaysia" />
+thumbnail: <img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/melaka-3.jpg" alt="Melaka Malaysia" />
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="/img/countries/malaysia/melaka-1.jpg" alt="Melaka, Malaysia, Asia"/>
-	<img class="img-responsive" src="/img/countries/malaysia/melaka-2.jpg" alt="Melaka, Malaysia, Asia"/>
-	<img class="img-responsive" src="/img/countries/malaysia/melaka-3.jpg" alt="Melaka, Malaysia, Asia"/>
-	<img class="img-responsive" src="/img/countries/malaysia/melaka-4.jpg" alt="Melaka, Malaysia, Asia"/>
-	<img class="img-responsive" src="/img/countries/malaysia/melaka-5.jpg" alt="Melaka, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/melaka-1.jpg" alt="Melaka, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/melaka-2.jpg" alt="Melaka, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/melaka-3.jpg" alt="Melaka, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/melaka-4.jpg" alt="Melaka, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/melaka-5.jpg" alt="Melaka, Malaysia, Asia"/>
 </div>

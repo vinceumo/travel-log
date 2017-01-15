@@ -6,22 +6,22 @@ continent: Asia
 title:  "Siem Reap, Cambodia, Asia"
 date:   2014-12-02 15:44:43 +0000
 categories: asia cambodia
-thumbnail: <img class="img-responsive" src="/img/thumbnails/siemreap-4.jpg" alt="Siem Reap" />
+thumbnail: <img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/siemreap-4.jpg" alt="Siem Reap" />
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="/img/countries/cambodia/siemreap-1.jpg" alt="Siem Reap, Cambodia, Asia"/>
-	<img class="img-responsive" src="/img/countries/cambodia/siemreap-2.jpg" alt="Siem Reap, Cambodia, Asia"/>
-	<img class="img-responsive" src="/img/countries/cambodia/siemreap-3.jpg" alt="Siem Reap, Cambodia, Asia"/>
-	<img class="img-responsive" src="/img/countries/cambodia/siemreap-4.jpg" alt="Siem Reap, Cambodia, Asia"/>
-	<img class="img-responsive" src="/img/countries/cambodia/siemreap-5.jpg" alt="Siem Reap, Cambodia, Asia"/>
-	<img class="img-responsive" src="/img/countries/cambodia/siemreap-6.jpg" alt="Siem Reap, Cambodia, Asia"/>
-	<img class="img-responsive" src="/img/countries/cambodia/siemreap-7.jpg" alt="Siem Reap, Cambodia, Asia"/>
-	<img class="img-responsive" src="/img/countries/cambodia/siemreap-8.jpg" alt="Siem Reap, Cambodia, Asia"/>
-	<img class="img-responsive" src="/img/countries/cambodia/siemreap-9.jpg" alt="Siem Reap, Cambodia, Asia"/>
-	<img class="img-responsive" src="/img/countries/cambodia/siemreap-10.jpg" alt="Siem Reap, Cambodia, Asia"/>
-	<img class="img-responsive" src="/img/countries/cambodia/siemreap-11.jpg" alt="Siem Reap, Cambodia, Asia"/>
-	<img class="img-responsive" src="/img/countries/cambodia/siemreap-12.jpg" alt="Siem Reap, Cambodia, Asia"/>
-	<img class="img-responsive" src="/img/countries/cambodia/siemreap-13.jpg" alt="Siem Reap, Cambodia, Asia"/>
-	<img class="img-responsive" src="/img/countries/cambodia/siemreap-14.jpg" alt="Siem Reap, Cambodia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/cambodia/siemreap-1.jpg" alt="Siem Reap, Cambodia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/cambodia/siemreap-2.jpg" alt="Siem Reap, Cambodia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/cambodia/siemreap-3.jpg" alt="Siem Reap, Cambodia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/cambodia/siemreap-4.jpg" alt="Siem Reap, Cambodia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/cambodia/siemreap-5.jpg" alt="Siem Reap, Cambodia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/cambodia/siemreap-6.jpg" alt="Siem Reap, Cambodia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/cambodia/siemreap-7.jpg" alt="Siem Reap, Cambodia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/cambodia/siemreap-8.jpg" alt="Siem Reap, Cambodia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/cambodia/siemreap-9.jpg" alt="Siem Reap, Cambodia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/cambodia/siemreap-10.jpg" alt="Siem Reap, Cambodia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/cambodia/siemreap-11.jpg" alt="Siem Reap, Cambodia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/cambodia/siemreap-12.jpg" alt="Siem Reap, Cambodia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/cambodia/siemreap-13.jpg" alt="Siem Reap, Cambodia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/cambodia/siemreap-14.jpg" alt="Siem Reap, Cambodia, Asia"/>
 </div>

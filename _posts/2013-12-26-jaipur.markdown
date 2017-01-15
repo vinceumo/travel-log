@@ -6,15 +6,15 @@ continent: Asia
 title:  "Jaipur, India, Asia"
 date:   2013-12-26 15:44:43 +0000
 categories: asia india
-thumbnail: <img class="img-responsive" src="/img/thumbnails/jaipur-1.jpg" alt="Jaipur India" />
+thumbnail: <img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/jaipur-1.jpg" alt="Jaipur India" />
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="/img/countries/india/jaipur-1.jpg" alt="Jaipur, India, Asia"/>
-	<img class="img-responsive" src="/img/countries/india/jaipur-2.jpg" alt="Jaipur, India, Asia"/>
-	<img class="img-responsive" src="/img/countries/india/jaipur-3.jpg" alt="Jaipur, India, Asia"/>
-	<img class="img-responsive" src="/img/countries/india/jaipur-4.jpg" alt="Jaipur, India, Asia"/>
-	<img class="img-responsive" src="/img/countries/india/jaipur-5.jpg" alt="Jaipur, India, Asia"/>
-	<img class="img-responsive" src="/img/countries/india/jaipur-6.jpg" alt="Jaipur, India, Asia"/>
-	<img class="img-responsive" src="/img/countries/india/jaipur-7.jpg" alt="Jaipur, India, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/india/jaipur-1.jpg" alt="Jaipur, India, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/india/jaipur-2.jpg" alt="Jaipur, India, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/india/jaipur-3.jpg" alt="Jaipur, India, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/india/jaipur-4.jpg" alt="Jaipur, India, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/india/jaipur-5.jpg" alt="Jaipur, India, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/india/jaipur-6.jpg" alt="Jaipur, India, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/india/jaipur-7.jpg" alt="Jaipur, India, Asia"/>
 </div>

@@ -6,19 +6,19 @@ continent: Asia
 title:  "Penang, Malaysia, Asia"
 date:   2015-02-28 15:44:43 +0000
 categories: asia malaysia
-thumbnail: <img class="img-responsive" src="/img/thumbnails/penang-9.jpg" alt="Penang Malaysia" />
+thumbnail: <img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/penang-9.jpg" alt="Penang Malaysia" />
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="/img/countries/malaysia/penang-1.jpg" alt="Penang, Malaysia, Asia"/>
-	<img class="img-responsive" src="/img/countries/malaysia/penang-2.jpg" alt="Penang, Malaysia, Asia"/>
-	<img class="img-responsive" src="/img/countries/malaysia/penang-3.jpg" alt="Penang, Malaysia, Asia"/>
-	<img class="img-responsive" src="/img/countries/malaysia/penang-4.jpg" alt="Penang, Malaysia, Asia"/>
-	<img class="img-responsive" src="/img/countries/malaysia/penang-5.jpg" alt="Penang, Malaysia, Asia"/>
-	<img class="img-responsive" src="/img/countries/malaysia/penang-6.jpg" alt="Penang, Malaysia, Asia"/>
-	<img class="img-responsive" src="/img/countries/malaysia/penang-7.jpg" alt="Penang, Malaysia, Asia"/>
-	<img class="img-responsive" src="/img/countries/malaysia/penang-8.jpg" alt="Penang, Malaysia, Asia"/>
-	<img class="img-responsive" src="/img/countries/malaysia/penang-9.jpg" alt="Penang, Malaysia, Asia"/>
-	<img class="img-responsive" src="/img/countries/malaysia/penang-10.jpg" alt="Penang, Malaysia, Asia"/>
-	<img class="img-responsive" src="/img/countries/malaysia/penang-11.jpg" alt="Penang, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/penang-1.jpg" alt="Penang, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/penang-2.jpg" alt="Penang, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/penang-3.jpg" alt="Penang, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/penang-4.jpg" alt="Penang, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/penang-5.jpg" alt="Penang, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/penang-6.jpg" alt="Penang, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/penang-7.jpg" alt="Penang, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/penang-8.jpg" alt="Penang, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/penang-9.jpg" alt="Penang, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/penang-10.jpg" alt="Penang, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/penang-11.jpg" alt="Penang, Malaysia, Asia"/>
 </div>
