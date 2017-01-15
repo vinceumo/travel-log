@@ -17,7 +17,7 @@
 			<div class="row">
 			{% if page.previous.url %}
 				<div class="col-xs-6 col-md-3 col-lg-2 thumbnails-perso">
-					<a href="{{ page.previous.url }}">
+					<a href="{{ site.github.url }}{{ page.previous.url }}">
 						<img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/{{ page.previous.thumbnail }}" alt="{{ page.previous.country }} {{ page.previous.city }}"/>
 						<p><strong>{{ page.previous.city }}</strong><br />{{ page.previous.country }}, {{ page.previous.continent }}</p>
 					</a>
@@ -25,7 +25,7 @@
 			{% endif %}
 			{% if page.next.url %}
 				<div class="col-xs-6 col-md-3 col-lg-2 thumbnails-perso">
-					<a href="{{ page.next.url }}">
+					<a href="{{ site.github.url }}{{ page.next.url }}">
 						<img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/{{ page.next.thumbnail }}" alt="{{ page.next.country }} {{ page.next.city }}"/>
 						<p><strong>{{ page.next.city }}</strong><br />{{ page.next.country }}, {{ page.next.continent }}</p>
 					</a>
