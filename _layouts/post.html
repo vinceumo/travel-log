@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Travel log - {{ page.title }}</title>
+		{% include head.html%}
+	</head>
+	<body>
+		{% include nav.html%}
+		<div class="container-fluid" canvas="container">
+			{% include page-header.html%}
+			<h2>{{ page.title }}</h2>
+			<p>{{ page.date | date: "%-d %B %Y"}}</p>
+
+			{{content}}
+
+			<h2>Other posts:</h2>
+			<div class="row">
+			{% if page.previous.url %}
+				<div class="col-xs-6 col-md-3 col-lg-2 thumbnails-perso">
+					<a href="{{ page.previous.url }}">
+						{{ page.previous.thumbnail }}
+						<p><strong>{{ page.previous.city }}</strong><br />{{ page.previous.country }}, {{ page.previous.continent }}</p>
+					</a>
+				</div>
+			{% endif %}
+			{% if page.next.url %}
+				<div class="col-xs-6 col-md-3 col-lg-2 thumbnails-perso">
+					<a href="{{ page.next.url }}">
+						{{ page.next.thumbnail }}
+						<p><strong>{{ page.next.city }}</strong><br />{{ page.next.country }}, {{ page.next.continent }}</p>
+					</a>
+				</div>
+			{% endif %}
+			</div>
+
+			{% include footer.html%}
+
+		</div><!--End Container-Fluid-->
+		{% include script-end.html%}
+	</body><!--END BODY-->
+</html>

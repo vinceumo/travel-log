@@ -1,0 +1,24 @@
+---
+layout: post
+city: Kochi
+country: India
+continent: Asia
+title:  "Kochi, India, Asia"
+date:   2014-07-24 15:44:43 +0000
+categories: asia india
+thumbnail: <img class="img-responsive" src="/img/thumbnails/kochi-3.jpg" alt="Kochi India" />
+---
+
+<div class="img-container">
+	<img class="img-responsive" src="/img/countries/india/kochi-1.jpg" alt="Kochi, India, Asia"/>
+	<img class="img-responsive" src="/img/countries/india/kochi-2.jpg" alt="Kochi, India, Asia"/>
+	<img class="img-responsive" src="/img/countries/india/kochi-3.jpg" alt="Kochi, India, Asia"/>
+	<img class="img-responsive" src="/img/countries/india/kochi-4.jpg" alt="Kochi, India, Asia"/>
+	<img class="img-responsive" src="/img/countries/india/kochi-5.jpg" alt="Kochi, India, Asia"/>
+	<img class="img-responsive" src="/img/countries/india/kochi-6.jpg" alt="Kochi, India, Asia"/>
+	<img class="img-responsive" src="/img/countries/india/kochi-7.jpg" alt="Kochi, India, Asia"/>
+	<img class="img-responsive" src="/img/countries/india/kochi-8.jpg" alt="Kochi, India, Asia"/>
+	<img class="img-responsive" src="/img/countries/india/kochi-9.jpg" alt="Kochi, India, Asia"/>
+	<img class="img-responsive" src="/img/countries/india/kochi-10.jpg" alt="Kochi, India, Asia"/>
+	<img class="img-responsive" src="/img/countries/india/kochi-11.jpg" alt="Kochi, India, Asia"/>
+</div>

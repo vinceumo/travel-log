@@ -1,0 +1,16 @@
+---
+layout: post
+city: Udaipur
+country: India
+continent: Asia
+title:  "Udaipur, India, Asia"
+date:   2014-01-03 15:44:43 +0000
+categories: asia india
+thumbnail: <img class="img-responsive" src="/img/thumbnails/udaipur-2.jpg" alt="Udaipur India" />
+---
+
+<div class="img-container">
+	<img class="img-responsive" src="/img/countries/india/udaipur-1.jpg" alt="Udaipur, India, Asia"/>
+	<img class="img-responsive" src="/img/countries/india/udaipur-2.jpg" alt="Udaipur, India, Asia"/>
+	<img class="img-responsive" src="/img/countries/india/udaipur-3.jpg" alt="Udaipur, India, Asia"/>
+</div>

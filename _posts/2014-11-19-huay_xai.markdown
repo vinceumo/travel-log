@@ -1,0 +1,16 @@
+---
+layout: post
+city: Huay Xai
+country: Laos
+continent: Asia
+title:  "Huay Xai, Laos, Asia"
+date:   2014-11-19 15:44:43 +0000
+categories: asia laos
+thumbnail: <img class="img-responsive" src="/img/thumbnails/houeisai-1.jpg" alt="Houei Sai, Huay Xai Laos" />
+---
+
+<div class="img-container">
+	<img class="img-responsive" src="/img/countries/laos/houeisai-1.jpg" alt="Huay Xai, Laos, Asia"/>
+	<img class="img-responsive" src="/img/countries/laos/houeisai-2.jpg" alt="Huay Xai, Laos, Asia"/>
+	<img class="img-responsive" src="/img/countries/laos/houeisai-3.jpg" alt="Huay Xai, Laos, Asia"/>
+</div>

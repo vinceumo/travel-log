@@ -1,0 +1,23 @@
+---
+layout: post
+city: Yangon
+country: Burma
+continent: Asia
+title:  "Yangon, Burma, Asia"
+date:   2015-05-04 15:44:43 +0000
+categories: asia burma
+thumbnail: <img class="img-responsive" src="/img/thumbnails/yangon-3.jpg" alt="yangon Burma" />
+---
+
+<div class="img-container">
+	<img class="img-responsive" src="/img/countries/burma/yangon-1.jpg" alt="Yangon, Burma, Asia"/>
+	<img class="img-responsive" src="/img/countries/burma/yangon-2.jpg" alt="Yangon, Burma, Asia"/>
+	<img class="img-responsive" src="/img/countries/burma/yangon-3.jpg" alt="Yangon, Burma, Asia"/>
+	<img class="img-responsive" src="/img/countries/burma/yangon-4.jpg" alt="Yangon, Burma, Asia"/>
+	<img class="img-responsive" src="/img/countries/burma/yangon-5.jpg" alt="Yangon, Burma, Asia"/>
+	<img class="img-responsive" src="/img/countries/burma/yangon-6.jpg" alt="Yangon, Burma, Asia"/>
+	<img class="img-responsive" src="/img/countries/burma/yangon-7.jpg" alt="Yangon, Burma, Asia"/>
+	<img class="img-responsive" src="/img/countries/burma/yangon-8.jpg" alt="Yangon, Burma, Asia"/>
+	<img class="img-responsive" src="/img/countries/burma/yangon-9.jpg" alt="Yangon, Burma, Asia"/>
+	<img class="img-responsive" src="/img/countries/burma/yangon-10.jpg" alt="Yangon, Burma, Asia"/>
+</div>

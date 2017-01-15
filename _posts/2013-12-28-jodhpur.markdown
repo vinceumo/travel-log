@@ -1,0 +1,17 @@
+---
+layout: post
+city: Jodhpur
+country: India
+continent: Asia
+title:  "Jodhpur, India, Asia"
+date:   2013-12-28 15:44:43 +0000
+categories: asia india
+thumbnail: <img class="img-responsive" src="/img/thumbnails/jodhpur-2.jpg" alt="Jodhpur India" />
+---
+
+<div class="img-container">
+	<img class="img-responsive" src="/img/countries/india/jodhpur-1.jpg" alt="Jodhpur, India, Asia"/>
+	<img class="img-responsive" src="/img/countries/india/jodhpur-2.jpg" alt="Jodhpur, India, Asia"/>
+	<img class="img-responsive" src="/img/countries/india/jodhpur-3.jpg" alt="Jodhpur, India, Asia"/>
+	<img class="img-responsive" src="/img/countries/india/jodhpur-4.jpg" alt="Jodhpur, India, Asia"/>
+</div>

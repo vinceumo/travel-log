@@ -1,0 +1,14 @@
+---
+layout: post
+city: Koh Rong
+country: Cambodia
+continent: Asia
+title:  "Koh Rong, Cambodia, Asia"
+date:   2014-12-07 15:44:43 +0000
+categories: asia cambodia
+thumbnail: <img class="img-responsive" src="/img/thumbnails/kohrong-1.jpg" alt="Koh Rong" />
+---
+
+<div class="img-container">
+	<img class="img-responsive" src="/img/countries/cambodia/kohrong-1.jpg" alt="Koh Rong, Cambodia, Asia"/>
+</div>

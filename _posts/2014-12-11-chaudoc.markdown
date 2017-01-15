@@ -1,0 +1,19 @@
+---
+layout: post
+city: Chaudoc
+country: Vietnam
+continent: Asia
+title:  "Chaudoc, Vietnam, Asia"
+date:   2014-12-13 15:44:43 +0000
+categories: asia vietnam
+thumbnail: <img class="img-responsive" src="/img/thumbnails/chaudoc-3.jpg" alt="Chaudoc Vietnam" />
+---
+
+<div class="img-container">
+	<img class="img-responsive" src="/img/countries/vietnam/chaudoc-1.jpg" alt="Chaudoc, Vietnam, Asia"/>
+	<img class="img-responsive" src="/img/countries/vietnam/chaudoc-2.jpg" alt="Chaudoc, Vietnam, Asia"/>
+	<img class="img-responsive" src="/img/countries/vietnam/chaudoc-3.jpg" alt="Chaudoc, Vietnam, Asia"/>
+	<img class="img-responsive" src="/img/countries/vietnam/chaudoc-4.jpg" alt="Chaudoc, Vietnam, Asia"/>
+	<img class="img-responsive" src="/img/countries/vietnam/chaudoc-5.jpg" alt="Chaudoc, Vietnam, Asia"/>
+	<img class="img-responsive" src="/img/countries/vietnam/chaudoc-6.jpg" alt="Chaudoc, Vietnam, Asia"/>
+</div>

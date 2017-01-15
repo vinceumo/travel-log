@@ -1,0 +1,19 @@
+---
+layout: post
+city: Inle
+country: Burma
+continent: Asia
+title:  "Inle, Burma, Asia"
+date:   2015-05-02 15:44:43 +0000
+categories: asia burma
+thumbnail: <img class="img-responsive" src="/img/thumbnails/inle-1.jpg" alt="Inle Burma" />
+---
+
+<div class="img-container">
+	<img class="img-responsive" src="/img/countries/burma/inle-1.jpg" alt="Inle, Burma, Asia"/>
+	<img class="img-responsive" src="/img/countries/burma/inle-2.jpg" alt="Inle, Burma, Asia"/>
+	<img class="img-responsive" src="/img/countries/burma/inle-3.jpg" alt="Inle, Burma, Asia"/>
+	<img class="img-responsive" src="/img/countries/burma/inle-4.jpg" alt="Inle, Burma, Asia"/>
+	<img class="img-responsive" src="/img/countries/burma/inle-5.jpg" alt="Inle, Burma, Asia"/>
+	<img class="img-responsive" src="/img/countries/burma/inle-6.jpg" alt="Inle, Burma, Asia"/>
+</div>

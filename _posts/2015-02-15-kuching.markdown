@@ -1,0 +1,17 @@
+---
+layout: post
+city: Kuching
+country: Malaysia
+continent: Asia
+title:  "Kuching, Malaysia, Asia"
+date:   2015-02-15 15:44:43 +0000
+categories: asia malaysia
+thumbnail: <img class="img-responsive" src="/img/thumbnails/kuching-malaysia-4.jpg" alt="Kuching Malaysia" />
+---
+
+<div class="img-container">
+	<img class="img-responsive" src="/img/countries/malaysia/kuching-malaysia-1.jpg" alt="Kuching, Malaysia, Asia"/>
+	<img class="img-responsive" src="/img/countries/malaysia/kuching-malaysia-2.jpg" alt="Kuching, Malaysia, Asia"/>
+	<img class="img-responsive" src="/img/countries/malaysia/kuching-malaysia-3.jpg" alt="Kuching, Malaysia, Asia"/>
+	<img class="img-responsive" src="/img/countries/malaysia/kuching-malaysia-4.jpg" alt="Kuching, Malaysia, Asia"/>
+</div>

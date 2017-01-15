@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Travel Log - {{ page.title }}</title>
+		{% include head.html%}
+	</head>
+	<body>
+		{% include navindex.html%}
+		<div class="container-fluid" canvas="container">
+			{% include page-header.html%}
+
+			{{content}}
+
+			{% include footer.html%}
+
+		</div><!--End Container-Fluid-->
+		{% include script-end.html%}
+	</body><!--END BODY-->
+</html>
