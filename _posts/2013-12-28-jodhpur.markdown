@@ -6,7 +6,7 @@ continent: Asia
 title:  "Jodhpur, India, Asia"
 date:   2013-12-28 15:44:43 +0000
 categories: asia india
-thumbnail: <img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/jodhpur-2.jpg" alt="Jodhpur India" />
+thumbnail: jodhpur-2.jpg
 ---
 
 <div class="img-container">

@@ -6,7 +6,7 @@ continent: Asia
 title:  "Mui Ne, Vietnam, Asia"
 date:   2014-10-08 15:44:43 +0000
 categories: asia vietnam
-thumbnail: <img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/mui_ne-5.jpg" alt="Mui Ne Vietnam" />
+thumbnail: mui_ne-5.jpg
 ---
 
 <div class="img-container">

@@ -6,7 +6,7 @@ continent: Asia
 title:  "Chiang Rai, Thailand, Asia"
 date:   2014-11-18 15:44:43 +0000
 categories: asia thailand
-thumbnail: <img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/chiangrai-8.jpg" alt="Chiang Rai Thailand" />
+thumbnail: chiangrai-8.jpg
 ---
 
 <div class="img-container">

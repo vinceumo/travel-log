@@ -6,7 +6,7 @@ continent: Asia
 title:  "Bangkok, Thailand, Asia"
 date:   2014-11-02 15:44:43 +0000
 categories: asia thailand
-thumbnail: <img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/bangkok-9.jpg" alt="Bangkok Thailand" />
+thumbnail: bangkok-9.jpg
 ---
 
 <div class="img-container">

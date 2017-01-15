@@ -6,7 +6,7 @@ continent: Asia
 title:  "Chiang Mai, Thailand, Asia"
 date:   2014-11-02 15:44:43 +0000
 categories: asia thailand
-thumbnail: <img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/chiangmai-9.jpg" alt="Chiang Mai Thailand" />
+thumbnail: chiangmai-9.jpg
 ---
 
 <div class="img-container">

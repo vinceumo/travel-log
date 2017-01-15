@@ -6,7 +6,7 @@ continent: Asia
 title:  "Halong Bay, Vietnam, Asia"
 date:   2014-09-14 15:44:43 +0000
 categories: asia vietnam
-thumbnail: <img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/halong-3.jpg" alt="Halong Bay Vietnam" />
+thumbnail: halong-3.jpg
 ---
 
 <div class="img-container">

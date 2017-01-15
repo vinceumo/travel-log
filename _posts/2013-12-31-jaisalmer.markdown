@@ -6,7 +6,7 @@ continent: Asia
 title:  "Jaisalmer, India, Asia"
 date:   2013-12-26 15:44:43 +0000
 categories: asia india
-thumbnail: <img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/jaisalmer-6.jpg" alt="Jaisalmer India" />
+thumbnail: jaisalmer-6.jpg
 ---
 
 <div class="img-container">

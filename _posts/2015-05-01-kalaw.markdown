@@ -6,7 +6,7 @@ continent: Asia
 title:  "Kalaw, Burma, Asia"
 date:   2015-05-01 15:44:43 +0000
 categories: asia burma
-thumbnail: <img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/kalaw-7.jpg" alt="Kalaw Burma" />
+thumbnail: kalaw-7.jpg
 ---
 
 <div class="img-container">

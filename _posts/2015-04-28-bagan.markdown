@@ -6,7 +6,7 @@ continent: Asia
 title:  "Bagan, Burma, Asia"
 date:   2015-04-28 15:44:43 +0000
 categories: asia burma
-thumbnail: <img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/bagan-4.jpg" alt="Bagan Burma" />
+thumbnail: bagan-4.jpg
 ---
 
 <div class="img-container">

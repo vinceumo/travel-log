@@ -6,7 +6,7 @@ continent: Asia
 title:  "Hanoi, Vietnam, Asia"
 date:   2014-10-25 15:44:43 +0000
 categories: asia vietnam
-thumbnail: <img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/hanoi02-1.jpg" alt="Hanoi Vietnam" />
+thumbnail: hanoi02-1.jpg
 ---
 
 <div class="img-container">

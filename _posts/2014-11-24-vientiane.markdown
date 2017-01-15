@@ -6,7 +6,7 @@ continent: Asia
 title:  "Vientiane, Laos, Asia"
 date:   2014-11-22 15:44:43 +0000
 categories: asia laos
-thumbnail: <img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/vientiane-6.jpg" alt="Vientiane Laos" />
+thumbnail: vientiane-6.jpg
 ---
 
 <div class="img-container">

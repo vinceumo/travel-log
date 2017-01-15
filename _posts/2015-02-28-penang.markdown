@@ -6,7 +6,7 @@ continent: Asia
 title:  "Penang, Malaysia, Asia"
 date:   2015-02-28 15:44:43 +0000
 categories: asia malaysia
-thumbnail: <img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/penang-9.jpg" alt="Penang Malaysia" />
+thumbnail: penang-9.jpg
 ---
 
 <div class="img-container">

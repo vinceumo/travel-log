@@ -6,7 +6,7 @@ continent: Asia
 title:  "Kuala Lumpur, Malaysia, Asia"
 date:   2015-02-23 15:44:43 +0000
 categories: asia malaysia
-thumbnail: <img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/kuala-lumpur-2.jpg" alt="Kuala Lumpur Malaysia" />
+thumbnail: kuala-lumpur-2.jpg
 ---
 
 <div class="img-container">

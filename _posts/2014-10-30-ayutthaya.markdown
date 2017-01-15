@@ -6,7 +6,7 @@ continent: Asia
 title:  "Ayutthaya, Thailand, Asia"
 date:   2014-10-30 15:44:43 +0000
 categories: asia thailand
-thumbnail: <img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/ayutthaya-5.jpg" alt="Ayutthaya Thailand" />
+thumbnail: ayutthaya-5.jpg
 ---
 
 <div class="img-container">

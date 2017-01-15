@@ -6,7 +6,7 @@ continent: Asia
 title:  "Chidambaram, India, Asia"
 date:   2014-12-22 15:44:43 +0000
 categories: asia india
-thumbnail: <img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/chidambaram-4.jpg" alt="Chidambaram India" />
+thumbnail: chidambaram-4.jpg
 ---
 
 <div class="img-container">

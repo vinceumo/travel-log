@@ -51,8 +51,8 @@ title: Home
 	<div class="row">
 		{% for post in site.categories.singapore %}
 			<div class="col-xs-6 col-md-3 col-lg-2 thumbnails-perso">
-				<a href="{{ post.url | prepend: site.github.url }}"">
-					{{ post.thumbnail }}
+				<a href="{{ post.url | prepend: site.github.url }}">
+					<img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/{{ post.thumbnail }}" alt="{{ post.country }} {{ post.city }}"/>
 					<p><strong>{{ post.city }}</strong><br />{{ post.continent }}</p>
 				</a>
 			</div>

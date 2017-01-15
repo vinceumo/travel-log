@@ -6,7 +6,7 @@ continent: Asia
 title:  "Ninh Binh, Tam Coc, Vietnam, Asia"
 date:   2014-09-24 15:44:43 +0000
 categories: asia vietnam
-thumbnail: <img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/ninh_binh-6.jpg" alt="Ninh Binh Vietnam" />
+thumbnail: ninh_binh-6.jpg
 ---
 
 <div class="img-container">

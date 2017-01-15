@@ -5,7 +5,7 @@ continent: Asia
 title:  "Singapore, Asia"
 date:   2015-02-20 15:44:43 +0000
 categories: asia singapore
-thumbnail: <img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/singapore-2.jpg" alt="Singapore" />
+thumbnail: singapore-2.jpg
 ---
 
 <div class="img-container">

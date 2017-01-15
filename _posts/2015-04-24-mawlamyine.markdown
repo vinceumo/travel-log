@@ -6,7 +6,7 @@ continent: Asia
 title:  "Mawlamyine, Burma, Asia"
 date:   2015-04-24 15:44:43 +0000
 categories: asia burma
-thumbnail: <img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/mawlamyine-1.jpg" alt="Mawlamyine Burma" />
+thumbnail: mawlamyine-1.jpg
 ---
 
 <div class="img-container">
