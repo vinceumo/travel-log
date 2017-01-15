@@ -1,5 +1,5 @@
 title: Travel Log
-baseurl: /travel-log # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 twitter_username: vince_umo
 github_username:  vinceumo
 
