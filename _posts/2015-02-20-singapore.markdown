@@ -1,6 +1,7 @@
 ---
 layout: post
 city: Singapore
+country : Singapore
 continent: Asia
 title:  "Singapore, Asia"
 date:   2015-02-20 15:44:43 +0000
