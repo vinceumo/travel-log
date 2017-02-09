@@ -67,6 +67,9 @@ a:focus, a:hover, .active{
 }
 
 /*----thumbnails----*/
+.thumbnails-perso a{
+	opacity: 1;
+}
 .thumbnails-perso{
 	text-align: center;
 	text-decoration: none;
