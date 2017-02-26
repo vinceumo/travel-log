@@ -1,0 +1,14 @@
+---
+layout: post
+city: Hue
+country: Vietnam
+continent: Asia
+title:  "Hue, Vietnam, Asia"
+date:   2015-06-07 15:44:43 +0000
+categories: asia vietnam
+thumbnail: hue-1.jpg
+---
+
+<div class="img-container">
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/hue-1.jpg" alt="hue, Vietnam, Asia"/>
+</div>
