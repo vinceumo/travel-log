@@ -1,0 +1,26 @@
+---
+layout: post
+city: Sapa
+country: Vietnam
+continent: Asia
+title:  "Sapa, Vietnam, Asia"
+date:   2015-06-15 15:44:43 +0000
+categories: asia vietnam
+thumbnail: sapa-8.jpg
+---
+
+<div class="img-container">
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/sapa-1.jpg" alt="sapa, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/sapa-2.jpg" alt="sapa, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/sapa-3.jpg" alt="sapa, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/sapa-4.jpg" alt="sapa, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/sapa-5.jpg" alt="sapa, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/sapa-6.jpg" alt="sapa, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/sapa-7.jpg" alt="sapa, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/sapa-8.jpg" alt="sapa, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/sapa-9.jpg" alt="sapa, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/sapa-10.jpg" alt="sapa, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/sapa-11.jpg" alt="sapa, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/sapa-12.jpg" alt="sapa, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/sapa-13.jpg" alt="sapa, Vietnam, Asia"/>
+</div>
