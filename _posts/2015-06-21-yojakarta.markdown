@@ -1,6 +1,6 @@
 ---
 layout: post
-city: Yoyojakarta
+city: Yojakarta
 country: Indonesia
 continent: Asia
 title:  "Yojakarta, Indonesia, Asia"
