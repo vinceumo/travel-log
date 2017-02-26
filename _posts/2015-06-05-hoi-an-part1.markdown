@@ -6,7 +6,7 @@ continent: Asia
 title:  "Hoi An Part1, Vietnam, Asia"
 date:   2015-06-05 15:44:43 +0000
 categories: asia vietnam
-thumbnail: hoian-22.jpg
+thumbnail: hoian-10.jpg
 ---
 
 <div class="img-container">
