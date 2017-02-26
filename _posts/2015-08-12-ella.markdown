@@ -4,7 +4,7 @@ city: Ella
 country: Sri Lanka
 continent: Asia
 title:  "Ella, Sri Lanka, Asia"
-date:   2015-07-21 15:44:43 +0000
+date:   2015-08-12 15:44:43 +0000
 categories: asia srilanka
 thumbnail: ella-3.jpg
 ---
