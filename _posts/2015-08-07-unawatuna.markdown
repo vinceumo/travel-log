@@ -6,7 +6,7 @@ continent: Asia
 title:  "Unawatuna, Sri Lanka, Asia"
 date:   2015-07-21 15:44:43 +0000
 categories: asia srilanka
-thumbnail: unawatuna-3.jpg
+thumbnail: unawatuna-1.jpg
 ---
 
 <div class="img-container">
