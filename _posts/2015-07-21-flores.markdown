@@ -1,0 +1,18 @@
+---
+layout: post
+city: Flores
+country: Indonesia
+continent: Asia
+title:  "Flores, Indonesia, Asia"
+date:   2015-07-21 15:44:43 +0000
+categories: asia indonesia
+thumbnail: flores-3.jpg
+---
+
+<div class="img-container">
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/flores-1.jpg" alt="flores, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/flores-2.jpg" alt="flores, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/flores-3.jpg" alt="flores, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/flores-4.jpg" alt="flores, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/flores-5.jpg" alt="flores, indonesia, Asia"/>
+</div>
