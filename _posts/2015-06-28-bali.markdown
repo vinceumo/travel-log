@@ -1,0 +1,22 @@
+---
+layout: post
+city: Bali
+country: Indonesia
+continent: Asia
+title:  "Bali, Indonesia, Asia"
+date:   2015-06-28 15:44:43 +0000
+categories: asia indonesia
+thumbnail: bali-8.jpg
+---
+
+<div class="img-container">
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/bali-1.jpg" alt="bali, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/bali-2.jpg" alt="bali, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/bali-3.jpg" alt="bali, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/bali-4.jpg" alt="bali, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/bali-5.jpg" alt="bali, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/bali-6.jpg" alt="bali, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/bali-7.jpg" alt="bali, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/bali-8.jpg" alt="bali, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/bali-9.jpg" alt="bali, indonesia, Asia"/>
+</div>
