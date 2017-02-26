@@ -1,0 +1,26 @@
+---
+layout: post
+city: Hoi An
+country: Vietnam
+continent: Asia
+title:  "Hoi An Part1, Vietnam, Asia"
+date:   2015-06-05 15:44:43 +0000
+categories: asia vietnam
+thumbnail: hoian-22.jpg
+---
+
+<div class="img-container">
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/hoian-1.jpg" alt="hoian, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/hoian-2.jpg" alt="hoian, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/hoian-3.jpg" alt="hoian, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/hoian-4.jpg" alt="hoian, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/hoian-5.jpg" alt="hoian, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/hoian-6.jpg" alt="hoian, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/hoian-7.jpg" alt="hoian, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/hoian-8.jpg" alt="hoian, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/hoian-9.jpg" alt="hoian, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/hoian-10.jpg" alt="hoian, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/hoian-11.jpg" alt="hoian, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/hoian-12.jpg" alt="hoian, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/hoian-13.jpg" alt="hoian, Vietnam, Asia"/>
+</div>
