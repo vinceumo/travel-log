@@ -18,13 +18,25 @@
         origin: new google.maps.Point(0, 0),
         anchor: new google.maps.Point(8, 22)
     };
-    function newPoint(city, lat, lon){
-        var marker = new google.maps.Marker({
-        position: new google.maps.LatLng(lat, lon),
-        map: map,
-        title: city,
-        icon: image
+    function newPoint(city, country){
+        var lat = 0;
+        var lon = 0;
+        var geocoder =  new google.maps.Geocoder();
+        geocoder.geocode( { 'address': city +', '+ country}, function(results, status) {
+          if (status == google.maps.GeocoderStatus.OK) {
+                lat = results[0].geometry.location.lat();
+                lon = results[0].geometry.location.lng();
+            var marker = new google.maps.Marker({
+                position: new google.maps.LatLng(lat, lon),
+                map: map,
+                title: city,
+                icon: image
+            }); 
+          } else {
+            alert("Something got wrong " + status);
+          }
         });
+        
     }
     var destinations = [
         {"country":"Vietnam","city":"Hanoi","lat":21.052377,"lon":105.823016},
@@ -39,9 +51,8 @@
         {"country":"Vietnam","city":"Saigon","lat":10.768451,"lon":106.6943626}];
     for(var i=0; i <= destinations.length; i++){
         var city = destinations[i].city;
-        var lat = destinations[i].lat;
-        var lon = destinations[i].lon;
-        newPoint(city, lat, lon);
+        var country = destinations[i].country;
+        newPoint(city, country);
     };
 /*
     //--> Mui ne
