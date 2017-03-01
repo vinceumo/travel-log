@@ -33,129 +33,42 @@
                 icon: image
             }); 
           } else {
-            alert("Something got wrong " + status);
+            console.log("Error Geocode " + city +', '+ country);
           }
         });
         
     }
-    var destinations = [
-        {"country":"Vietnam","city":"Hanoi","lat":21.052377,"lon":105.823016},
-        {"country":"India","city":"Delhi","lat":28.6454414,"lon":77.0907573},
-        {"country":"India","city":"Agra","lat":27.1761745,"lon":77.980013},
-        {"country":"India","city":"Jaipur","lat":26.8852108,"lon":75.7905578},
-        {"country":"India","city":"Jaisalmer","lat":26.9035788,"lon":70.8947302},
-        {"country":"India","city":"Jodhpur","lat":26.2703528,"lon":73.0305433},
-        {"country":"India","city":"Udaipur","lat":24.5872025,"lon":73.7108014},
-        {"country":"India","city":"Pondicherry","lat":11.931720,"lon":79.833836},
-        {"country":"India","city":"Kochin","lat":9.953967,"lon":76.255610},
-        {"country":"Vietnam","city":"Saigon","lat":10.768451,"lon":106.6943626}];
+    var destinations = [{"country":"Vietnam","city":"Hanoi"},
+    {"country":"India","city":"Delhi"},
+    {"country":"India","city":"Agra"},
+    {"country":"India","city":"Jaipur"},
+    {"country":"India","city":"Jaisalmer"},
+    {"country":"India","city":"Jodhpur"},
+    {"country":"India","city":"Udaipur"},
+    {"country":"India","city":"Pondicherry"},
+    {"country":"France","city":"Kochin"},
+    {"country":"Vietnam","city":"Saigon"},
+    {"country":"Vietnam","city":"MuiNe"},
+    {"country":"Vietnam","city":"NinhBinh"},
+    {"country":"Vietnam","city":"Halong Bay"},
+    {"country":"Thailand","city":"Bangkok"},
+    {"country":"Thailand","city":"Koh Chang"},
+    {"country":"Thailand","city":"Chiang Mai"},
+    {"country":"Thailand","city":"Pai"},
+    {"country":"Laos","city":"Luang Prabang"},
+    {"country":"Laos","city":"Vientiane"},
+    {"country":"Laos","city":"Si Phan Don"},
+    {"country":"Cambodia","city":"Siem reap"},
+    {"country":"Cambodia","city":"Phnom Penh"},
+    {"country":"Cambodia","city":"Koh Samui"},
+    {"country":"Malaysia","city":"Kuching"},
+    {"country":"US","city":"Miami"}];
     for(var i=0; i <= destinations.length; i++){
         var city = destinations[i].city;
         var country = destinations[i].country;
         newPoint(city, country);
     };
 /*
-    //--> Mui ne
-    var marker3 = new google.maps.Marker({
-        position: new google.maps.LatLng(10.9604389, 108.3107692),
-        map: map,
-        title: "Mui Ne",
-        icon: image
-    });
-
-    //--> Ninh Binh
-    var marker3 = new google.maps.Marker({
-        position: new google.maps.LatLng(20.209028, 105.8555064),
-        map: map,
-        title: "Ninh Binh",
-        icon: image
-    });
-
-    //--> Halong
-    var marker3 = new google.maps.Marker({
-        position: new google.maps.LatLng(20.8434744, 107.1496045),
-        map: map,
-        title: "Halong",
-        icon: image
-    });
-
-    //--> bangkok
-    var marker3 = new google.maps.Marker({
-        position: new google.maps.LatLng(13.7246005, 100.6331108),
-        map: map,
-        title: "bangkok",
-        icon: image
-    });
-
-    //--> Koh Chang
-    var marker3 = new google.maps.Marker({
-        position: new google.maps.LatLng(12.0544768, 102.348022),
-        map: map,
-        title: "koh Chang",
-        icon: image
-    });
-
-    //--> Chiang Mai
-    var marker3 = new google.maps.Marker({
-        position: new google.maps.LatLng(18.771752, 98.9564772),
-        map: map,
-        title: "Chiang Mai",
-        icon: image
-    });
-
-    //--> Luang Prabang
-    var marker3 = new google.maps.Marker({
-        position: new google.maps.LatLng(19.8856369, 102.1455574),
-        map: map,
-        title: "Luang Prabang",
-        icon: image
-    });
-
-    //--> vientiane
-    var marker3 = new google.maps.Marker({
-        position: new google.maps.LatLng(17.9582971, 102.6057656),
-        map: map,
-        title: "vientiane",
-        icon: image
-    });
-
-    //--> 4000 islands
-    var marker3 = new google.maps.Marker({
-        position: new google.maps.LatLng(14.047043, 105.832683),
-        map: map,
-        title: "4000 islands",
-        icon: image
-    });
-
-    //--> Siem reap
-    var marker3 = new google.maps.Marker({
-        position: new google.maps.LatLng(13.3457263, 103.8629545),
-        map: map,
-        title: "Siem reap",
-        icon: image
-    });
-
-    //--> Phnom Penh
-    var marker3 = new google.maps.Marker({
-        position: new google.maps.LatLng(11.5793642, 104.8787384),
-        map: map,
-        title: "Phnom Penh",
-        icon: image
-    });
-    //--> Koh Samui
-    var marker3 = new google.maps.Marker({
-        position: new google.maps.LatLng(9.5011157, 100.0014922),
-        map: map,
-        title: "Koh Samui",
-        icon: image
-    });
-    //--> kuching
-    var marker3 = new google.maps.Marker({
-        position: new google.maps.LatLng(1.6028575, 110.3263045),
-        map: map,
-        title: "kuching",
-        icon: image
-    });
     //--> brunei
     var marker3 = new google.maps.Marker({
         position: new google.maps.LatLng(4.5242486, 114.7196266),
