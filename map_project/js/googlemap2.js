@@ -33,36 +33,40 @@
                 icon: image
             }); 
           } else {
-            console.log("Error Geocode " + city +', '+ country);
+            console.log("Error Geocode " + city +', '+ country +', '+ status);
           }
         });
         
     }
-    var destinations = [{"country":"Vietnam","city":"Hanoi"},
-    {"country":"India","city":"Delhi"},
-    {"country":"India","city":"Agra"},
-    {"country":"India","city":"Jaipur"},
-    {"country":"India","city":"Jaisalmer"},
-    {"country":"India","city":"Jodhpur"},
-    {"country":"India","city":"Udaipur"},
-    {"country":"India","city":"Pondicherry"},
-    {"country":"France","city":"Kochin"},
-    {"country":"Vietnam","city":"Saigon"},
-    {"country":"Vietnam","city":"MuiNe"},
-    {"country":"Vietnam","city":"NinhBinh"},
-    {"country":"Vietnam","city":"Halong Bay"},
-    {"country":"Thailand","city":"Bangkok"},
-    {"country":"Thailand","city":"Koh Chang"},
-    {"country":"Thailand","city":"Chiang Mai"},
-    {"country":"Thailand","city":"Pai"},
-    {"country":"Laos","city":"Luang Prabang"},
-    {"country":"Laos","city":"Vientiane"},
-    {"country":"Laos","city":"Si Phan Don"},
-    {"country":"Cambodia","city":"Siem reap"},
-    {"country":"Cambodia","city":"Phnom Penh"},
-    {"country":"Cambodia","city":"Koh Samui"},
-    {"country":"Malaysia","city":"Kuching"},
-    {"country":"US","city":"Miami"}];
+    var destinations = [
+        {"country":"Vietnam","city":"Ninh Binh"},
+        {"country":"Thailand","city":"Bangkok"},
+        {"country":"Vietnam","city":"Hanoi"},
+        {"country":"India","city":"Delhi"},
+        {"country":"India","city":"Agra"},
+        {"country":"India","city":"Jaipur"},
+        {"country":"India","city":"Jaisalmer"},
+        {"country":"India","city":"Jodhpur"},
+        {"country":"India","city":"Udaipur"},
+        {"country":"India","city":"Pondicherry"},
+        {"country":"France","city":"Kochin"},
+        {"country":"Vietnam","city":"Saigon"},
+        {"country":"Vietnam","city":"Mui Ne"},
+
+        
+        {"country":"Vietnam","city":"Halong Bay"},
+        {"country":"Thailand","city":"Koh Chang"},
+        {"country":"Thailand","city":"Chiang Mai"},
+        {"country":"Thailand","city":"Pai"},
+        {"country":"Laos","city":"Luang Prabang"},
+        {"country":"Laos","city":"Vientiane"},
+        {"country":"Laos","city":"Si Phan Don"},
+        {"country":"Cambodia","city":"Siem reap"},
+        {"country":"Cambodia","city":"Phnom Penh"},
+        {"country":"Cambodia","city":"Koh Samui"},
+        {"country":"Malaysia","city":"Kuching"},
+        {"country":"US","city":"Miami"}
+        ];
     for(var i=0; i <= destinations.length; i++){
         var city = destinations[i].city;
         var country = destinations[i].country;
