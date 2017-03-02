@@ -19,15 +19,11 @@
         anchor: new google.maps.Point(8, 22)
     };
     function newPoint(city, country){
-        var lat = 0;
-        var lon = 0;
         var geocoder =  new google.maps.Geocoder();
         geocoder.geocode( { 'address': city +', '+ country}, function(results, status) {
           if (status == google.maps.GeocoderStatus.OK) {
-                lat = results[0].geometry.location.lat();
-                lon = results[0].geometry.location.lng();
             var marker = new google.maps.Marker({
-                position: new google.maps.LatLng(lat, lon),
+                position: results[0].geometry.location,
                 map: map,
                 title: city,
                 icon: image
@@ -36,7 +32,6 @@
             console.log("Error Geocode " + city +', '+ country +', '+ status);
           }
         });
-        
     }
     var destinations = [
         {"country":"Vietnam","city":"Ninh Binh"},
@@ -52,8 +47,6 @@
         {"country":"France","city":"Kochin"},
         {"country":"Vietnam","city":"Saigon"},
         {"country":"Vietnam","city":"Mui Ne"},
-
-        
         {"country":"Vietnam","city":"Halong Bay"},
         {"country":"Thailand","city":"Koh Chang"},
         {"country":"Thailand","city":"Chiang Mai"},
@@ -65,7 +58,6 @@
         {"country":"Cambodia","city":"Phnom Penh"},
         {"country":"Cambodia","city":"Koh Samui"},
         {"country":"Malaysia","city":"Kuching"},
-        {"country":"US","city":"Miami"}
         ];
     for(var i=0; i <= destinations.length; i++){
         var city = destinations[i].city;
