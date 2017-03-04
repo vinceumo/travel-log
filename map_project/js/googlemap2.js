@@ -33,6 +33,7 @@
           }
         });
     }
+
     var destinations = [
         {"country":"Vietnam","city":"Ninh Binh"},
         {"country":"Thailand","city":"Bangkok"},
