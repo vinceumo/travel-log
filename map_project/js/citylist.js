@@ -152,4 +152,6 @@ var destinations =
 {"country":"Vietnam","city":"Mui Ne","latlng":"10.9332105, 108.28718370000001"},
 {"country":"Vietnam","city":"Ninh Binh","latlng":"20.2506149, 105.97445360000006"},
 {"country":"Vietnam","city":"Saigon","latlng":"10.8230989, 106.6296638"},
-{"country":"Vietnam","city":"Sapa","latlng":"22.3363608, 103.84378519999996"}];
+{"country":"Vietnam","city":"Sapa","latlng":"22.3363608, 103.84378519999996"},
+{"country":"Belgium","city":"Brussels","latlng":"50.850346, 4.351721"},
+];
