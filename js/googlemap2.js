@@ -14,7 +14,7 @@
     map.setMapTypeId('map_style');
 
     var image = {
-        url: 'css/images/marker2.png',
+        url: '/img/marker2.png',
         size: new google.maps.Size(16, 22),
         origin: new google.maps.Point(0, 0),
         anchor: new google.maps.Point(8, 22)
