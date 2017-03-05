@@ -10,22 +10,22 @@ thumbnail: mui_ne-5.jpg
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/mui_ne-2.jpg" alt="Mui Ne, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/mui_ne-3.jpg" alt="Mui Ne, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/mui_ne-4.jpg" alt="Mui Ne, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/mui_ne-5.jpg" alt="Mui Ne, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/mui_ne-6.jpg" alt="Mui Ne, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/mui_ne-7.jpg" alt="Mui Ne, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/mui_ne-8.jpg" alt="Mui Ne, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/mui_ne-9.jpg" alt="Mui Ne, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/mui_ne-11.jpg" alt="Mui Ne, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/mui_ne-12.jpg" alt="Mui Ne, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/mui_ne-13.jpg" alt="Mui Ne, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/mui_ne-14.jpg" alt="Mui Ne, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/mui_ne-15.jpg" alt="Mui Ne, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/mui_ne-16.jpg" alt="Mui Ne, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/mui_ne-17.jpg" alt="Mui Ne, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/mui_ne-18.jpg" alt="Mui Ne, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/mui_ne-19.jpg" alt="Mui Ne, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/mui_ne-22.jpg" alt="Mui Ne, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/mui_ne-2.jpg" alt="Mui Ne, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/mui_ne-3.jpg" alt="Mui Ne, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/mui_ne-4.jpg" alt="Mui Ne, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/mui_ne-5.jpg" alt="Mui Ne, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/mui_ne-6.jpg" alt="Mui Ne, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/mui_ne-7.jpg" alt="Mui Ne, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/mui_ne-8.jpg" alt="Mui Ne, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/mui_ne-9.jpg" alt="Mui Ne, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/mui_ne-11.jpg" alt="Mui Ne, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/mui_ne-12.jpg" alt="Mui Ne, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/mui_ne-13.jpg" alt="Mui Ne, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/mui_ne-14.jpg" alt="Mui Ne, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/mui_ne-15.jpg" alt="Mui Ne, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/mui_ne-16.jpg" alt="Mui Ne, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/mui_ne-17.jpg" alt="Mui Ne, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/mui_ne-18.jpg" alt="Mui Ne, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/mui_ne-19.jpg" alt="Mui Ne, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/mui_ne-22.jpg" alt="Mui Ne, Vietnam, Asia"/>
 </div>

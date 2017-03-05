@@ -10,6 +10,6 @@ thumbnail: unawatuna-1.jpg
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/sri-lanka/unawatuna-1.jpg" alt="unawatuna, sri-lanka, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/sri-lanka/unawatuna-2.jpg" alt="unawatuna, sri-lanka, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/sri-lanka/unawatuna-1.jpg" alt="unawatuna, sri-lanka, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/sri-lanka/unawatuna-2.jpg" alt="unawatuna, sri-lanka, Asia"/>
 </div>

@@ -10,9 +10,9 @@ thumbnail: melaka-3.jpg
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/melaka-1.jpg" alt="Melaka, Malaysia, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/melaka-2.jpg" alt="Melaka, Malaysia, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/melaka-3.jpg" alt="Melaka, Malaysia, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/melaka-4.jpg" alt="Melaka, Malaysia, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/melaka-5.jpg" alt="Melaka, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/malaysia/melaka-1.jpg" alt="Melaka, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/malaysia/melaka-2.jpg" alt="Melaka, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/malaysia/melaka-3.jpg" alt="Melaka, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/malaysia/melaka-4.jpg" alt="Melaka, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/malaysia/melaka-5.jpg" alt="Melaka, Malaysia, Asia"/>
 </div>

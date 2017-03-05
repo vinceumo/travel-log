@@ -10,10 +10,10 @@ thumbnail: chaudoc-3.jpg
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/chaudoc-1.jpg" alt="Chaudoc, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/chaudoc-2.jpg" alt="Chaudoc, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/chaudoc-3.jpg" alt="Chaudoc, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/chaudoc-4.jpg" alt="Chaudoc, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/chaudoc-5.jpg" alt="Chaudoc, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/chaudoc-6.jpg" alt="Chaudoc, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/chaudoc-1.jpg" alt="Chaudoc, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/chaudoc-2.jpg" alt="Chaudoc, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/chaudoc-3.jpg" alt="Chaudoc, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/chaudoc-4.jpg" alt="Chaudoc, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/chaudoc-5.jpg" alt="Chaudoc, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/chaudoc-6.jpg" alt="Chaudoc, Vietnam, Asia"/>
 </div>

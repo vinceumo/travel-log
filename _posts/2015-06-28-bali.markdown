@@ -10,13 +10,13 @@ thumbnail: bali-8.jpg
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/bali-1.jpg" alt="bali, indonesia, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/bali-2.jpg" alt="bali, indonesia, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/bali-3.jpg" alt="bali, indonesia, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/bali-4.jpg" alt="bali, indonesia, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/bali-5.jpg" alt="bali, indonesia, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/bali-6.jpg" alt="bali, indonesia, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/bali-7.jpg" alt="bali, indonesia, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/bali-8.jpg" alt="bali, indonesia, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/bali-9.jpg" alt="bali, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/indonesia/bali-1.jpg" alt="bali, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/indonesia/bali-2.jpg" alt="bali, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/indonesia/bali-3.jpg" alt="bali, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/indonesia/bali-4.jpg" alt="bali, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/indonesia/bali-5.jpg" alt="bali, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/indonesia/bali-6.jpg" alt="bali, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/indonesia/bali-7.jpg" alt="bali, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/indonesia/bali-8.jpg" alt="bali, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/indonesia/bali-9.jpg" alt="bali, indonesia, Asia"/>
 </div>

@@ -10,11 +10,11 @@ thumbnail: ayutthaya-5.jpg
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/thailand/ayutthaya-1.jpg" alt="Ayutthaya, Thailand, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/thailand/ayutthaya-2.jpg" alt="Ayutthaya, Thailand, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/thailand/ayutthaya-3.jpg" alt="Ayutthaya, Thailand, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/thailand/ayutthaya-4.jpg" alt="Ayutthaya, Thailand, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/thailand/ayutthaya-5.jpg" alt="Ayutthaya, Thailand, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/thailand/ayutthaya-6.jpg" alt="Ayutthaya, Thailand, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/thailand/ayutthaya-7.jpg" alt="Ayutthaya, Thailand, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/thailand/ayutthaya-1.jpg" alt="Ayutthaya, Thailand, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/thailand/ayutthaya-2.jpg" alt="Ayutthaya, Thailand, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/thailand/ayutthaya-3.jpg" alt="Ayutthaya, Thailand, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/thailand/ayutthaya-4.jpg" alt="Ayutthaya, Thailand, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/thailand/ayutthaya-5.jpg" alt="Ayutthaya, Thailand, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/thailand/ayutthaya-6.jpg" alt="Ayutthaya, Thailand, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/thailand/ayutthaya-7.jpg" alt="Ayutthaya, Thailand, Asia"/>
 </div>

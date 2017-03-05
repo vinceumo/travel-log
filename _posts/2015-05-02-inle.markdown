@@ -10,10 +10,10 @@ thumbnail: inle-1.jpg
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/burma/inle-1.jpg" alt="Inle, Burma, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/burma/inle-2.jpg" alt="Inle, Burma, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/burma/inle-3.jpg" alt="Inle, Burma, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/burma/inle-4.jpg" alt="Inle, Burma, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/burma/inle-5.jpg" alt="Inle, Burma, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/burma/inle-6.jpg" alt="Inle, Burma, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/burma/inle-1.jpg" alt="Inle, Burma, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/burma/inle-2.jpg" alt="Inle, Burma, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/burma/inle-3.jpg" alt="Inle, Burma, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/burma/inle-4.jpg" alt="Inle, Burma, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/burma/inle-5.jpg" alt="Inle, Burma, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/burma/inle-6.jpg" alt="Inle, Burma, Asia"/>
 </div>

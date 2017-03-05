@@ -10,7 +10,7 @@ thumbnail: houeisai-1.jpg
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/laos/houeisai-1.jpg" alt="Huay Xai, Laos, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/laos/houeisai-2.jpg" alt="Huay Xai, Laos, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/laos/houeisai-3.jpg" alt="Huay Xai, Laos, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/laos/houeisai-1.jpg" alt="Huay Xai, Laos, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/laos/houeisai-2.jpg" alt="Huay Xai, Laos, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/laos/houeisai-3.jpg" alt="Huay Xai, Laos, Asia"/>
 </div>

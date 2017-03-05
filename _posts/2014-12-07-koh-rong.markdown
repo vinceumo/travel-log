@@ -10,5 +10,5 @@ thumbnail: kohrong-1.jpg
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/cambodia/kohrong-1.jpg" alt="Koh Rong, Cambodia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/cambodia/kohrong-1.jpg" alt="Koh Rong, Cambodia, Asia"/>
 </div>

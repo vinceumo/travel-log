@@ -10,8 +10,8 @@ thumbnail: kuching-malaysia-4.jpg
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/kuching-malaysia-1.jpg" alt="Kuching, Malaysia, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/kuching-malaysia-2.jpg" alt="Kuching, Malaysia, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/kuching-malaysia-3.jpg" alt="Kuching, Malaysia, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/kuching-malaysia-4.jpg" alt="Kuching, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/malaysia/kuching-malaysia-1.jpg" alt="Kuching, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/malaysia/kuching-malaysia-2.jpg" alt="Kuching, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/malaysia/kuching-malaysia-3.jpg" alt="Kuching, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/malaysia/kuching-malaysia-4.jpg" alt="Kuching, Malaysia, Asia"/>
 </div>

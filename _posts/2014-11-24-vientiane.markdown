@@ -10,9 +10,9 @@ thumbnail: vientiane-6.jpg
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/laos/vientiane-1.jpg" alt="Vientiane, Laos, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/laos/vientiane-2.jpg" alt="Vientiane, Laos, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/laos/vientiane-3.jpg" alt="Vientiane, Laos, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/laos/vientiane-4.jpg" alt="Vientiane, Laos, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/laos/vientiane-5.jpg" alt="Vientiane, Laos, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/laos/vientiane-1.jpg" alt="Vientiane, Laos, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/laos/vientiane-2.jpg" alt="Vientiane, Laos, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/laos/vientiane-3.jpg" alt="Vientiane, Laos, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/laos/vientiane-4.jpg" alt="Vientiane, Laos, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/laos/vientiane-5.jpg" alt="Vientiane, Laos, Asia"/>
 </div>

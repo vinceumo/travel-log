@@ -10,8 +10,8 @@ thumbnail: pai-4.jpg
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/thailand/pai-1.jpg" alt="Pai, Thailand, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/thailand/pai-2.jpg" alt="Pai, Thailand, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/thailand/pai-3.jpg" alt="Pai, Thailand, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/thailand/pai-4.jpg" alt="Pai, Thailand, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/thailand/pai-1.jpg" alt="Pai, Thailand, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/thailand/pai-2.jpg" alt="Pai, Thailand, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/thailand/pai-3.jpg" alt="Pai, Thailand, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/thailand/pai-4.jpg" alt="Pai, Thailand, Asia"/>
 </div>

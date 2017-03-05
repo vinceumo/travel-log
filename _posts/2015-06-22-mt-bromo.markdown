@@ -10,9 +10,9 @@ thumbnail: bromo-2.jpg
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/bromo-1.jpg" alt="bromo, indonesia, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/bromo-2.jpg" alt="bromo, indonesia, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/bromo-3.jpg" alt="bromo, indonesia, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/bromo-4.jpg" alt="bromo, indonesia, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/bromo-5.jpg" alt="bromo, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/indonesia/bromo-1.jpg" alt="bromo, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/indonesia/bromo-2.jpg" alt="bromo, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/indonesia/bromo-3.jpg" alt="bromo, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/indonesia/bromo-4.jpg" alt="bromo, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/indonesia/bromo-5.jpg" alt="bromo, indonesia, Asia"/>
 </div>

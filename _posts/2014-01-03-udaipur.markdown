@@ -10,7 +10,7 @@ thumbnail: udaipur-2.jpg
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/india/udaipur-1.jpg" alt="Udaipur, India, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/india/udaipur-2.jpg" alt="Udaipur, India, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/india/udaipur-3.jpg" alt="Udaipur, India, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/india/udaipur-1.jpg" alt="Udaipur, India, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/india/udaipur-2.jpg" alt="Udaipur, India, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/india/udaipur-3.jpg" alt="Udaipur, India, Asia"/>
 </div>

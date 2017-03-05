@@ -10,10 +10,10 @@ thumbnail: ella-3.jpg
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/sri-lanka/ella-1.jpg" alt="ella, sri-lanka, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/sri-lanka/ella-2.jpg" alt="ella, sri-lanka, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/sri-lanka/ella-3.jpg" alt="ella, sri-lanka, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/sri-lanka/ella-4.jpg" alt="ella, sri-lanka, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/sri-lanka/ella-5.jpg" alt="ella, sri-lanka, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/sri-lanka/ella-6.jpg" alt="ella, sri-lanka, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/sri-lanka/ella-1.jpg" alt="ella, sri-lanka, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/sri-lanka/ella-2.jpg" alt="ella, sri-lanka, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/sri-lanka/ella-3.jpg" alt="ella, sri-lanka, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/sri-lanka/ella-4.jpg" alt="ella, sri-lanka, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/sri-lanka/ella-5.jpg" alt="ella, sri-lanka, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/sri-lanka/ella-6.jpg" alt="ella, sri-lanka, Asia"/>
 </div>

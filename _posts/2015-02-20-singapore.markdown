@@ -10,8 +10,8 @@ thumbnail: singapore-2.jpg
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/singapore/singapore-1.jpg" alt="Singapore, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/singapore/singapore-2.jpg" alt="Singapore, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/singapore/singapore-3.jpg" alt="Singapore, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/singapore/singapore-4.jpg" alt="Singapore, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/singapore/singapore-1.jpg" alt="Singapore, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/singapore/singapore-2.jpg" alt="Singapore, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/singapore/singapore-3.jpg" alt="Singapore, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/singapore/singapore-4.jpg" alt="Singapore, Asia"/>
 </div>

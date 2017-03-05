@@ -10,10 +10,10 @@ thumbnail: kuala-lumpur-2.jpg
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/kuala-lumpur-1.jpg" alt="Kuala Lumpur, Malaysia, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/kuala-lumpur-2.jpg" alt="Kuala Lumpur, Malaysia, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/kuala-lumpur-3.jpg" alt="Kuala Lumpur, Malaysia, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/kuala-lumpur-4.jpg" alt="Kuala Lumpur, Malaysia, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/kuala-lumpur-5.jpg" alt="Kuala Lumpur, Malaysia, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/malaysia/kuala-lumpur-6.jpg" alt="Kuala Lumpur, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/malaysia/kuala-lumpur-1.jpg" alt="Kuala Lumpur, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/malaysia/kuala-lumpur-2.jpg" alt="Kuala Lumpur, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/malaysia/kuala-lumpur-3.jpg" alt="Kuala Lumpur, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/malaysia/kuala-lumpur-4.jpg" alt="Kuala Lumpur, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/malaysia/kuala-lumpur-5.jpg" alt="Kuala Lumpur, Malaysia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/malaysia/kuala-lumpur-6.jpg" alt="Kuala Lumpur, Malaysia, Asia"/>
 </div>

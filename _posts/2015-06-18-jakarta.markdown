@@ -10,8 +10,8 @@ thumbnail: jakarta-3.jpg
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/jakarta-1.jpg" alt="jakarta, indonesia, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/jakarta-2.jpg" alt="jakarta, indonesia, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/jakarta-3.jpg" alt="jakarta, indonesia, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/indonesia/jakarta-4.jpg" alt="jakarta, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/indonesia/jakarta-1.jpg" alt="jakarta, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/indonesia/jakarta-2.jpg" alt="jakarta, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/indonesia/jakarta-3.jpg" alt="jakarta, indonesia, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/indonesia/jakarta-4.jpg" alt="jakarta, indonesia, Asia"/>
 </div>

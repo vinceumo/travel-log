@@ -10,10 +10,10 @@ thumbnail: jaisalmer-6.jpg
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/india/jaisalmer-1.jpg" alt="Jaisalmer, India, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/india/jaisalmer-2.jpg" alt="Jaisalmer, India, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/india/jaisalmer-3.jpg" alt="Jaisalmer, India, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/india/jaisalmer-4.jpg" alt="Jaisalmer, India, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/india/jaisalmer-5.jpg" alt="Jaisalmer, India, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/india/jaisalmer-6.jpg" alt="Jaisalmer, India, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/india/jaisalmer-1.jpg" alt="Jaisalmer, India, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/india/jaisalmer-2.jpg" alt="Jaisalmer, India, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/india/jaisalmer-3.jpg" alt="Jaisalmer, India, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/india/jaisalmer-4.jpg" alt="Jaisalmer, India, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/india/jaisalmer-5.jpg" alt="Jaisalmer, India, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/india/jaisalmer-6.jpg" alt="Jaisalmer, India, Asia"/>
 </div>

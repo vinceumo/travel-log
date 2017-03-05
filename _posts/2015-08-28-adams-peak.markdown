@@ -10,5 +10,5 @@ thumbnail: adams-peak-1.jpg
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/sri-lanka/adams-peak-1.jpg" alt="adams-peak, sri-lanka, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/sri-lanka/adams-peak-1.jpg" alt="adams-peak, sri-lanka, Asia"/>
 </div>

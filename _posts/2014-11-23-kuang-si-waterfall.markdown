@@ -10,6 +10,6 @@ thumbnail: kuangsiwaterfall-2.jpg
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/laos/kuangsiwaterfall-1.jpg" alt="Kuang Si Waterfall, Laos, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/laos/kuangsiwaterfall-2.jpg" alt="Kuang Si Waterfall, Laos, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/laos/kuangsiwaterfall-1.jpg" alt="Kuang Si Waterfall, Laos, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/laos/kuangsiwaterfall-2.jpg" alt="Kuang Si Waterfall, Laos, Asia"/>
 </div>

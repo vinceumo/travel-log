@@ -10,7 +10,7 @@ thumbnail: gingee-1.jpg
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/india/gingee-1.jpg" alt="Gingee, India, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/india/gingee-2.jpg" alt="Gingee, India, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/india/gingee-3.jpg" alt="Gingee, India, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/india/gingee-1.jpg" alt="Gingee, India, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/india/gingee-2.jpg" alt="Gingee, India, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/india/gingee-3.jpg" alt="Gingee, India, Asia"/>
 </div>

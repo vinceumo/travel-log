@@ -10,8 +10,8 @@ thumbnail: chidambaram-4.jpg
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/india/chidambaram-1.jpg" alt="Chidambaram, India, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/india/chidambaram-2.jpg" alt="Chidambaram, India, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/india/chidambaram-3.jpg" alt="Chidambaram, India, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/india/chidambaram-4.jpg" alt="Chidambaram, India, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/india/chidambaram-1.jpg" alt="Chidambaram, India, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/india/chidambaram-2.jpg" alt="Chidambaram, India, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/india/chidambaram-3.jpg" alt="Chidambaram, India, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/india/chidambaram-4.jpg" alt="Chidambaram, India, Asia"/>
 </div>

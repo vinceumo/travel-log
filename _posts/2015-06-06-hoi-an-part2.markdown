@@ -10,16 +10,16 @@ thumbnail: hoian-22.jpg
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/hoian-14.jpg" alt="hoian, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/hoian-15.jpg" alt="hoian, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/hoian-16.jpg" alt="hoian, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/hoian-17.jpg" alt="hoian, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/hoian-18.jpg" alt="hoian, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/hoian-19.jpg" alt="hoian, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/hoian-20.jpg" alt="hoian, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/hoian-21.jpg" alt="hoian, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/hoian-22.jpg" alt="hoian, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/hoian-23.jpg" alt="hoian, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/hoian-24.jpg" alt="hoian, Vietnam, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/vietnam/hoian-25.jpg" alt="hoian, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/hoian-14.jpg" alt="hoian, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/hoian-15.jpg" alt="hoian, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/hoian-16.jpg" alt="hoian, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/hoian-17.jpg" alt="hoian, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/hoian-18.jpg" alt="hoian, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/hoian-19.jpg" alt="hoian, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/hoian-20.jpg" alt="hoian, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/hoian-21.jpg" alt="hoian, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/hoian-22.jpg" alt="hoian, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/hoian-23.jpg" alt="hoian, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/hoian-24.jpg" alt="hoian, Vietnam, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/vietnam/hoian-25.jpg" alt="hoian, Vietnam, Asia"/>
 </div>

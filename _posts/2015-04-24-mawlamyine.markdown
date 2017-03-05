@@ -10,9 +10,9 @@ thumbnail: mawlamyine-1.jpg
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/burma/mawlamyine-1.jpg" alt="Mawlamyine, Burma, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/burma/mawlamyine-2.jpg" alt="Mawlamyine, Burma, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/burma/mawlamyine-3.jpg" alt="Mawlamyine, Burma, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/burma/mawlamyine-4.jpg" alt="Mawlamyine, Burma, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/burma/mawlamyine-5.jpg" alt="Mawlamyine, Burma, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/burma/mawlamyine-1.jpg" alt="Mawlamyine, Burma, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/burma/mawlamyine-2.jpg" alt="Mawlamyine, Burma, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/burma/mawlamyine-3.jpg" alt="Mawlamyine, Burma, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/burma/mawlamyine-4.jpg" alt="Mawlamyine, Burma, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/burma/mawlamyine-5.jpg" alt="Mawlamyine, Burma, Asia"/>
 </div>

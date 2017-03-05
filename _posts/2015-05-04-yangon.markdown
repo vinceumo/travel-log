@@ -10,14 +10,14 @@ thumbnail: yangon-3.jpg
 ---
 
 <div class="img-container">
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/burma/yangon-1.jpg" alt="Yangon, Burma, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/burma/yangon-2.jpg" alt="Yangon, Burma, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/burma/yangon-3.jpg" alt="Yangon, Burma, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/burma/yangon-4.jpg" alt="Yangon, Burma, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/burma/yangon-5.jpg" alt="Yangon, Burma, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/burma/yangon-6.jpg" alt="Yangon, Burma, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/burma/yangon-7.jpg" alt="Yangon, Burma, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/burma/yangon-8.jpg" alt="Yangon, Burma, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/burma/yangon-9.jpg" alt="Yangon, Burma, Asia"/>
-	<img class="img-responsive" src="{{ site.github.url }}/img/countries/burma/yangon-10.jpg" alt="Yangon, Burma, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/burma/yangon-1.jpg" alt="Yangon, Burma, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/burma/yangon-2.jpg" alt="Yangon, Burma, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/burma/yangon-3.jpg" alt="Yangon, Burma, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/burma/yangon-4.jpg" alt="Yangon, Burma, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/burma/yangon-5.jpg" alt="Yangon, Burma, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/burma/yangon-6.jpg" alt="Yangon, Burma, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/burma/yangon-7.jpg" alt="Yangon, Burma, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/burma/yangon-8.jpg" alt="Yangon, Burma, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/burma/yangon-9.jpg" alt="Yangon, Burma, Asia"/>
+	<img class="img-responsive" src="{{ site.baseurl }}/img/countries/burma/yangon-10.jpg" alt="Yangon, Burma, Asia"/>
 </div>
