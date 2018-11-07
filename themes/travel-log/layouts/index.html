@@ -1,5 +1,9 @@
+<!DOCTYPE html>
 <html>
 <body>
-  <p>Hello World!</p>
+  <p>hello</p>
+  {{ range first 10 .Data.Pages }}
+    <h1><a href={{ .Permalink }}>{{ .Title }}</a></h1>
+  {{ end }}
 </body>
 </html>
