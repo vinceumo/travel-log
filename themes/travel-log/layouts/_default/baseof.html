@@ -1,11 +1,15 @@
 <!DOCTYPE html>
-<html>
-    {{- partial "head.html" . -}}
+<html lang="{{ .Site.LanguageCode }}">
+    <head>
+        <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+        {{- partial "head.html" . -}}
+    </head>
     <body>
         {{- partial "header.html" . -}}
         <div id="content">
         {{- block "main" . }}{{- end }}
         </div>
         {{- partial "footer.html" . -}}
+        <p>Hello world from base off</p>
     </body>
 </html>

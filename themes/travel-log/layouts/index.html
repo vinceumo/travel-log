@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
-  <p>hello</p>
-  {{ range first 10 .Data.Pages }}
-    <h1><a href={{ .Permalink }}>{{ .Title }}</a></h1>
-  {{ end }}
-</body>
-</html>
+{{ define "main" }}
+  <h1>Hello World from index</h1>
+  {{ partial "home.html" . }}
+{{ end }}
