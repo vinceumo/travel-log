@@ -1,0 +1,14 @@
+{
+  "title": "Travel Log - UI/pattern library",
+  "source": "",
+  "mask": "*.scss",
+  "placeholder": "[modifier]",
+  "destination": "../styleguide/",
+  "builder": "../kss_theme/",
+  "css": [
+    "../../static/css/screen.css"
+  ],
+  "js": [
+    "https://cdn.jsdelivr.net/gh/ireade/caniuse-embed/caniuse-embed.min.js"
+  ]
+}
