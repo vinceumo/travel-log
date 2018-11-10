@@ -5,6 +5,7 @@ draft: false
 Description: "d"
 Tags: ["first"]
 Categories: ["Hugo"]
+Country: "Vietnam"
 ---
 
-Hi there. My first Hugo post
+Hi there. My first Hugo post, Test

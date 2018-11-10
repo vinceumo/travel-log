@@ -2,7 +2,10 @@
     <ul>
         {{ range .Site.Pages }}
             {{ if eq .Type "post"}}
-                <li> <a href="{{ .URL }}" class="post__title">{{ .Title }}</a></li> 
+                <li>
+                    <a href="{{ .URL }}" class="post__title">{{ .Title }}</a>
+                    <p>{{ .Params.Country }}</p>
+                </li> 
             {{ end }}
         {{ end }}
     </ul>
