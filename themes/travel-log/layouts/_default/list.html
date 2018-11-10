@@ -1,0 +1,8 @@
+<div class="container">
+  <ul>
+      {{ range .Site.Pages }}
+          <li> <a href="{{ .URL }}" class="post__title">{{ .Title }}</a></li> 
+      {{ end }}
+  </ul>
+   {{ .Content }}
+</div>

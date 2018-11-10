@@ -1,4 +1,6 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
+languageCode = "en-gb"
 title = "Travel Log"
 theme = "travel-log"
+
+publishDir = "docs"
