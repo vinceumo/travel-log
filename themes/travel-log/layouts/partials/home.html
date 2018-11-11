@@ -1,6 +1,6 @@
 <div class="container">
     <ul>
-        {{ range .Site.Pages }}
+        {{ range .Site.Pages.ByTitle }}
             {{ if eq .Type "post"}}
                 <li>
                     <a href="{{ .URL }}" class="post__title">{{ .Title }}</a>
