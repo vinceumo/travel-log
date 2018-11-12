@@ -1,11 +1,18 @@
 <div class="container">
-    {{ range .Site.Pages.GroupByParam "region" }}
-        <h2>{{ .Key }}</h2>
+    {{ range .Site.Pages.GroupByParam "region" "title"}}
+        {{ $regionId := .Key | urlize}}
+        <h2 id="{{ $regionId }}">{{ .Key }}</h2>
         <ul>
-            {{ range .Pages}}
-                <li>
-                    <a href="{{ .URL }}" class="post__title">{{ .Title }}</a>
-                    <p>{{ .Params.Country }}</p>
+            {{ range .Pages.GroupByParam "country" "title"}}
+                {{ $countryId := .Key | urlize}}
+                <li id="{{ $regionId }}_{{ $countryId }}">{{ .Key }}
+                    <ul>
+                        {{ range .Pages.ByTitle }}
+                            <li>
+                                <a href="{{ .URL }}" class="post__title">{{ .Title }}</a>
+                            </li>
+                        {{ end }}
+                    </ul>
                 </li> 
             {{ end }}
         </ul>
