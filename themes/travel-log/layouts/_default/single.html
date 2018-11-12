@@ -1,3 +1,5 @@
-<h1>{{ .Title }}</h1>
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
   <h2>{{ .Date.Format "Sun, Feb 11, 2018" }}</h2>
-{{ .Content }}
+  {{ .Content }}
+{{ end }}
