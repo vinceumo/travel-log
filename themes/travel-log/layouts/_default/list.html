@@ -2,10 +2,13 @@
     <div class="container">
         <h1 class="title">{{ .Title }}</h1>
         <ul>
-            {{ range .Paginator.Pages }}
+            {{ $thisPage := .CurrentSection }}
+            {{ range .Site.RegularPages }}
+                {{ if .IsDescendant $thisPage}}
                 <li>
                     <a href="{{ .URL }}">{{ .Title }}</a>
                 </li>
+                {{ end }}
             {{ end }}
         </ul>
          {{ .Content }}
