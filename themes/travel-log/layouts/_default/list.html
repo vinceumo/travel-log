@@ -1,8 +1,11 @@
 {{ define "main" }}
     <div class="container">
+        <h1 class="title">{{ .Title }}</h1>
         <ul>
-            {{ range .Site.Pages }}
-                <li> <a href="{{ .URL }}" class="post__title">{{ .Title }}</a></li> 
+            {{ range .Paginator.Pages }}
+                <li>
+                    <a href="{{ .URL }}">{{ .Title }}</a>
+                </li>
             {{ end }}
         </ul>
          {{ .Content }}
