@@ -4,3 +4,5 @@ title = "Travel Log"
 theme = "travel-log"
 
 publishDir = "docs"
+
+disableKinds = ["taxonomy","taxonomyTerm"]
