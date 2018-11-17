@@ -6,5 +6,6 @@ theme = "travel-log"
 publishDir = "docs"
 
 BaseURL = "travel-log"
+canonifyurls = true
 
 disableKinds = ["taxonomy","taxonomyTerm"]
