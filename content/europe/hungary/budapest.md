@@ -6,3 +6,5 @@ type: post
 region: "Europe"
 country: "Hungary"
 ---
+
+![budapest](/images/budapest/test.jpg)

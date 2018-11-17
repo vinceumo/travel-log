@@ -1,0 +1,4 @@
+<head>
+  <title>{{ block "title" . }}{{ .Site.Title }} | {{ .Title }}{{if isset .Params "country"}} | {{ .Params.Country }}{{ end }}{{if isset .Params "region"}} | {{ .Params.Region }}{{ end }}{{ end }}</title>
+  <link rel="stylesheet" href="/css/screen.min.css">
+</head>
