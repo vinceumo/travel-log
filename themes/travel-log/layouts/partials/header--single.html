@@ -1,0 +1,16 @@
+<header class="header has-mb-7">
+  <div class="header--img has-mb-6" style="background-image: url(/images/{{ .Params.imgDir }}{{ .Params.thumbnail }})"></div>
+  <div class="container has-text-center has-mb-6">
+    <p class="has-mb-6"><time datetime="{{ .Date }}">{{ .Date }}</time></p>
+    <div class="header--title">
+      <p class="infos">
+          <b>{{.Params.Country}}</b><br>
+          {{.Params.Region}}
+      </p>
+      <div class="img-container">
+        <img class="img-fluid" src="/images/{{ .Params.imgDir }}{{ .Params.thumbnail }}" alt="">
+      </div>
+      <h1>{{ .Title }}</h1>
+    </div>
+  </div>
+</header>

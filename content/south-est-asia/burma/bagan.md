@@ -7,4 +7,5 @@ type: post
 region: "Southeast Asia"
 country: "Burma (Myanmar)"
 imgDir: "burma/bagan/"
+thumbnail: "bagan-6.jpg"
 ---

@@ -1,0 +1,18 @@
+.header {
+  .header--img {
+    background-size: cover;
+    background-position: center center;
+    padding-top:  (map-deep-get($aspect-ratios, silver, height) / map-deep-get($aspect-ratios, silver, width)) * 100%; 
+    opacity: 0.85;
+
+    @include min(bp(xl)) {
+      padding-top: 0;
+      height: 500px;
+    }
+  }
+
+  .header--title {
+    display: grid;
+    
+  }
+}
