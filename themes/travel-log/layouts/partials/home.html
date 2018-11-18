@@ -2,14 +2,18 @@
     {{ range .Site.Pages.GroupByParam "region" "title"}}
         {{ $regionId := .Key | urlize}}
         <h2 id="{{ $regionId }}">{{ .Key }}</h2>
-        <ul>
+        <ul class="list-unstyle">
             {{ range .Pages.GroupByParam "country" "title"}}
                 {{ $countryId := .Key | urlize}}
-                <li id="{{ $regionId }}_{{ $countryId }}">{{ .Key }}
-                    <ul>
+                <li id="{{ $regionId }}_{{ $countryId }}">
+                    <h3>{{ .Key }}</h3>
+                    <ul class="list-unstyle grid has-cols-1 has-cols-sm-2 has-cols-md-3 has-cols-lg-4 has-cols-xl-5 has-grid-gap-3">
                         {{ range .Pages.ByTitle }}
                             <li>
-                                <a href="{{ .URL }}" class="post__title">{{ .Title }}</a>
+                                <a href="{{ .URL }}" class="post__title">
+                                    <img class="img-fluid" src="/images/{{ .Params.imgDir }}{{ .Params.thumbnail }}" alt="">
+                                    {{ .Title }}
+                                </a>
                             </li>
                         {{ end }}
                     </ul>
@@ -17,5 +21,5 @@
             {{ end }}
         </ul>
     {{ end }}
-     {{ .Content }}
+    {{ .Content }}
  </div>

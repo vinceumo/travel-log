@@ -12,7 +12,33 @@
   }
 
   .header--title {
-    display: grid;
+    @include min(bp(sm)) {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      grid-template-rows: none;
+      align-items: center;
+      grid-gap: spacer(3);
+    }
+
+    .img-container {
+      display: none;
+      overflow: hidden;
+
+      @include min(bp(sm)){
+        display: block;
+      }
+
+      img {
+        filter: blur(10px);
+        transform: scale(2);
+        opacity: 0.85;
+      }
+    }
     
+    h1, .infos {
+      margin-top: 0; 
+      margin-bottom: 0;
+      text-align: center;
+    }
   }
 }

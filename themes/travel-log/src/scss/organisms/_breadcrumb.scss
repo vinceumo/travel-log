@@ -1,0 +1,42 @@
+.breadcrumb {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  > li {
+    padding-right: spacer(2);
+    margin-bottom: spacer(1);
+    text-align: center;
+    line-height: 1;
+    align-self: center;
+
+    @include unique() {
+      display: none;
+    }
+
+    @include last(1) {
+      padding-right: 0;
+      opacity: 0.8;
+
+      &:after {
+        display: none;
+      }
+    }
+
+    &:after {
+      content: "/";
+      padding-left: spacer(2);
+    }
+
+    > a {
+      widows: 100%;
+    }
+
+    > p {
+      margin-bottom: 0;
+    }
+  }
+}

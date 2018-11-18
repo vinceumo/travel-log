@@ -3,7 +3,9 @@
   {{ $pathURL := string (path.Join "/images/" $imageDir ) }}
   {{ $path := string (path.Join "/static/images/" $imageDir )}}
   {{ $images := readDir $path }}
-  {{ range $images }}
-    <img class="img-fluid has-mb-5" src="{{ $pathURL }}{{ .Name | relURL }}" alt="{{ .Name }}" />
-  {{ end }}
+  <div class="gallery">
+    {{ range $images }}
+      <img class="img-fluid" src="{{ $pathURL }}{{ .Name | relURL }}" alt="{{ .Name }}" />
+    {{ end }}
+  </div>
 {{ end }}

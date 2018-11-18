@@ -42,20 +42,20 @@
 //atoms
 @import "atoms/aspect-ratio-container";
 @import "atoms/brand";
-@import "atoms/btn";
+// @import "atoms/btn";
 @import "atoms/burger";
 @import "atoms/focus";
 @import "atoms/img-fluid";
 @import "atoms/media-and-bg-cover";
-@import "atoms/overlay";
+// @import "atoms/overlay";
 
     //A11y
     @import "atoms/a11y/screen-reader";
 
     //Forms
-    @import "atoms/forms/form-text";
-    @import "atoms/forms/inputs";
-    @import "atoms/forms/label";
+    // @import "atoms/forms/form-text";
+    // @import "atoms/forms/inputs";
+    // @import "atoms/forms/label";
 
     //typography
     @import "atoms/typography/blockquotes";
@@ -65,21 +65,24 @@
     @import "atoms/typography/typography-global";
 
     //modifiers
-    @import "atoms/modifiers/bg-color";
-    @import "atoms/modifiers/box-shadow";
-    @import "atoms/modifiers/display";
-    @import "atoms/modifiers/flex";
+    // @import "atoms/modifiers/bg-color";
+    // @import "atoms/modifiers/box-shadow";
+    // @import "atoms/modifiers/display";
+    // @import "atoms/modifiers/flex";
     @import "atoms/modifiers/rounded";
     @import "atoms/modifiers/spacing";
-    @import "atoms/modifiers/text-color";
-    @import "atoms/modifiers/text-font-family";
-    @import "atoms/modifiers/text-position";
-    @import "atoms/modifiers/text-transform";
+    // @import "atoms/modifiers/text-color";
+    // @import "atoms/modifiers/text-font-family";
+    // @import "atoms/modifiers/text-position";
+    // @import "atoms/modifiers/text-transform";
 
 //molecules
 @import "molecules/skip-navigation";
+@import "molecules/thumbnail";
 
 //organisms
+@import "organisms/breadcrumb";
+@import "organisms/gallery";
 @import "organisms/header";
 
 //templates
