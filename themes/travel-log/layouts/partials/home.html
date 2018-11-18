@@ -9,10 +9,13 @@
                     <h3>{{ .Key }}</h3>
                     <ul class="list-unstyle grid has-cols-1 has-cols-sm-2 has-cols-md-3 has-cols-lg-4 has-cols-xl-5 has-grid-gap-3">
                         {{ range .Pages.ByTitle }}
-                            <li>
+                            <li class="thumbnail">
                                 <a href="{{ .URL }}" class="post__title">
-                                    <img class="img-fluid" src="/images/{{ .Params.imgDir }}{{ .Params.thumbnail }}" alt="">
-                                    {{ .Title }}
+                                    {{ $imageThumbnailUrl := string (path.Join "/images/"  .Params.imgDir .Params.thumbnail) }} 
+                                    
+                                    <img class="img-fluid" src="{{ $imageThumbnailUrl }}" alt="">
+                                    <b>{{ .Title }}</b><br>
+                                    {{ .Params.Country }}
                                 </a>
                             </li>
                         {{ end }}

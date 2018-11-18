@@ -1,3 +1,23 @@
 .thumbnail {
+  text-align: center;
   
+  a {
+    color: color(dark);
+
+    &:hover, &:focus {
+      img {
+        opacity: 1;
+      }
+    }
+
+    b {
+      font-size: font-size(5);
+    }
+
+    img {
+      margin-bottom: spacer(2);
+      opacity: 0.85;
+      transition: opacity 0.5s ease-in-out;
+    }
+  }
 }
