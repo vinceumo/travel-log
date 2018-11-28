@@ -5,7 +5,10 @@
   {{ $images := readDir $path }}
   <div class="gallery">
     {{ range $images }}
-      <img class="img-fluid" src="{{ $pathURL }}{{ .Name | relURL }}" alt="{{ .Name }}" />
+      <img 
+        class="img-fluid" 
+        src="{{ $pathURL }}{{ .Name | relURL }}" 
+        alt="{{ .Name }}" />
     {{ end }}
   </div>
 {{ end }}
