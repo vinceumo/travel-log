@@ -4,77 +4,21 @@
 $color-prefix: --color-;
 $color-gray-prefix: --color-gray-;
 $color-themes: (
-  primary:
-    (
-      base: #4c5c8c,
-      dark: darken(#4c5c8c, 15%),
-      light: lighten(#4c5c8c, 15%),
-      transparent: transparentize(#4c5c8c, 0.5),
-      contrast: #ffffff
-    ),
-  secondary:
-    (
-      base: #212529,
-      dark: darken(#212529, 15%),
-      light: lighten(#212529, 15%),
-      transparent: transparentize(#212529, 0.5),
-      contrast: #ffffff
-    ),
-  text:
-    (
-      base: #212529,
-      dark: darken(#212529, 15%),
-      light: lighten(#212529, 15%),
-      transparent: transparentize(#212529, 0.5),
-      contrast: #ffffff
-    ),
-  link:
-    (
-      base: #4b7e9e,
-      dark: darken(#4b7e9e, 15%),
-      light: lighten(#4b7e9e, 15%),
-      transparent: transparentize(#4b7e9e, 0.5),
-      contrast: #ffffff
-    ),
-  success:
-    (
-      base: #4b9b50,
-      dark: darken(#4b9b50, 15%),
-      light: lighten(#4b9b50, 15%),
-      transparent: transparentize(#4b9b50, 0.5),
-      contrast: #ffffff
-    ),
-  danger:
-    (
-      base: #c65556,
-      dark: darken(#c65556, 15%),
-      light: lighten(#c65556, 15%),
-      transparent: transparentize(#c65556, 0.5),
-      contrast: #ffffff
-    ),
-  warning:
-    (
-      base: #d3b354,
-      dark: darken(#d3b354, 15%),
-      light: lighten(#d3b354, 15%),
-      transparent: transparentize(#d3b354, 0.5),
-      contrast: #ffffff
-    ),
   light:
     (
-      base: #efe5cf,
-      dark: darken(#efe5cf, 15%),
-      light: lighten(#efe5cf, 15%),
-      transparent: transparentize(#efe5cf, 0.5),
-      contrast: #343a40
+      base: hsl(0, 0%, 100%),
+      dark: hsl(210, 16%, 93%),
+      light: hsl(0, 0%, 100%),
+      transparent: hsla(0, 0%, 100%, 0.5),
+      contrast: hsl(210, 10%, 23%)
     ),
   dark:
     (
-      base: #343a40,
-      dark: darken(#343a40, 15%),
-      light: lighten(#343a40, 15%),
-      transparent: transparentize(#343a40, 0.5),
-      contrast: #efe5cf
+      base: hsl(210, 10%, 23%),
+      dark: hsl(210, 10%, 13%),
+      light: hsl(210, 10%, 33%),
+      transparent: hsla(210, 10%, 23%, 0.5),
+      contrast: hsl(0, 0%, 100%)
     )
 );
 

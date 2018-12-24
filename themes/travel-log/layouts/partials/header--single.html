@@ -1,5 +1,19 @@
+{{ $thumbnail := .Resources.GetMatch (printf "**%s" .Params.thumbnail) }}
+{{ $thumbnailCropXs := $thumbnail.Resize "400x" }}
+{{ $thumbnailCropSm := $thumbnail.Resize "600x" }}
+{{ $thumbnailCropMd := $thumbnail.Resize "900x" }}
+{{ $thumbnailCropLg := $thumbnail.Resize "1200x" }}
+{{ $thumbnailCropXl := $thumbnail.Resize "1800x" }}
 <header class="header has-mb-7">
-  <div class="header--img has-mb-6" style="background-image: url(images/{{ .Params.thumbnail }})"></div>
+  <div class="header--img has-mb-6">
+    <img src="{{ $thumbnailCropXs.RelPermalink }}" 
+      srcset="{{ $thumbnailCropSm.RelPermalink }} 600w,
+      {{ $thumbnailCropMd.RelPermalink }} 900w,
+      {{ $thumbnailCropLg.RelPermalink }} 1200w
+      {{ $thumbnailCropXl.RelPermalink }} 1800w"
+      alt=""
+      aria-hidden="true">
+  </div>
   <div class="container has-text-center has-mb-6">
     <p class="has-mb-6"><time datetime="{{ .Date }}">{{ .Date }}</time></p>
     <div class="header--title">
@@ -8,7 +22,13 @@
           {{.Params.Region}}
       </p>
       <div class="img-container">
-        <img class="img-fluid" src="images/{{ .Params.thumbnail }}" aria-hidden="true" alt="">
+        <img class="img-fluid" src="{{ $thumbnailCropXs.RelPermalink }}" 
+          srcset="{{ $thumbnailCropSm.RelPermalink }} 600w,
+          {{ $thumbnailCropMd.RelPermalink }} 900w,
+          {{ $thumbnailCropLg.RelPermalink }} 1200w
+          {{ $thumbnailCropXl.RelPermalink }} 1800w"
+          alt=""
+          aria-hidden="true">
       </div>
       <h1>{{ .Title }}</h1>
     </div>

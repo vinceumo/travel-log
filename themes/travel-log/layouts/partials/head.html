@@ -1,4 +1,7 @@
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>{{ block "title" . }}{{ .Site.Title }} | {{ .Title }}{{if isset .Params "country"}} | {{ .Params.Country }}{{ end }}{{if isset .Params "region"}} | {{ .Params.Region }}{{ end }}{{ end }}</title>
   <link rel="stylesheet" href="/css/screen.min.css">
 </head>

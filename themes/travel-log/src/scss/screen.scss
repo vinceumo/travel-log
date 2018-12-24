@@ -41,7 +41,6 @@
 
 //atoms
 @import "atoms/aspect-ratio-container";
-@import "atoms/brand";
 // @import "atoms/btn";
 @import "atoms/burger";
 @import "atoms/focus";
@@ -53,11 +52,6 @@
     //A11y
     @import "atoms/a11y/screen-reader";
 
-    //Forms
-    // @import "atoms/forms/form-text";
-    // @import "atoms/forms/inputs";
-    // @import "atoms/forms/label";
-
     //typography
     @import "atoms/typography/blockquotes";
     @import "atoms/typography/lists";
@@ -68,8 +62,8 @@
     //modifiers
     // @import "atoms/modifiers/bg-color";
     // @import "atoms/modifiers/box-shadow";
-    // @import "atoms/modifiers/display";
-    // @import "atoms/modifiers/flex";
+    @import "atoms/modifiers/display";
+    @import "atoms/modifiers/flex";
     @import "atoms/modifiers/rounded";
     @import "atoms/modifiers/spacing";
     // @import "atoms/modifiers/text-color";
@@ -85,6 +79,7 @@
 @import "organisms/breadcrumb";
 @import "organisms/gallery";
 @import "organisms/header";
+@import "organisms/navigation";
 
 //templates
 @import "templates/main-template";
