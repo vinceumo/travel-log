@@ -1,9 +1,14 @@
 {{ $images := .Resources.ByType "image" }}
 <div class="gallery">
   {{ range $images }}
+    {{ $imageXs := .Resize "400x" }}
+    {{ $imageSm := .Resize "600x" }}
+    {{ $imageMd := .Resize "1000x" }}
     <img 
       class="img-fluid" 
-      src="{{ .RelPermalink }}" 
+      src="{{ $imageXs.RelPermalink }}" 
+      srcset="{{ $imageSm.RelPermalink }} 600w,
+      {{ $imageMd.RelPermalink }} 1000w"
       alt="" />
   {{ end }}
 </div>
