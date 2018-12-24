@@ -11,18 +11,7 @@
                         {{ range .Pages.ByTitle }}
                             <li class="thumbnail">
                                 <a href="{{ .URL }}" class="post__title">
-                                    {{/*  https://discourse.gohugo.io/t/is-it-possible-to-define-staticdir-param-to-be-nested-location/13146  */}}
-                                    {{/*  https://gohugo.io/content-management/image-processing/  */}}
-                                    {{/*  https://gohugo.io/content-management/page-resources/  */}}
-                                    {{/*  Need to move images out of static  */}}
-                                    {{/*  {{ $imageThumbnailUrl := string (path.Join "/images/"  .Params.imgDir .Params.thumbnail) }} 
-                                    <img class="img-fluid" src="{{ $imageThumbnailUrl }}" alt="">  */}}
-
-                                    {{ $string :=  "/"}}
-                                    {{ $targetPath := string (path.Join "images/" .Params.imgDir .Params.thumbnail) }}
-                                    {{ $vars := $string | resources.FromString $targetPath }}
-                                    <img class="img-fluid" src="{{ $vars.RelPermalink | safeURL }}" alt="">
-
+                                    <img class="img-fluid" src="{{ .URL }}images/{{ .Params.thumbnail }}" alt="">
                                     <b>{{ .Title }}</b><br>
                                     {{ .Params.Country }}
                                 </a>

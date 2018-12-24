@@ -1,14 +1,9 @@
-{{ with .Params.ImgDir }}
-  {{ $imageDir := . }}
-  {{ $pathURL := string (path.Join "/images/" $imageDir ) }}
-  {{ $path := string (path.Join "/static/images/" $imageDir )}}
-  {{ $images := readDir $path }}
-  <div class="gallery">
-    {{ range $images }}
-      <img 
-        class="img-fluid" 
-        src="{{ $pathURL }}{{ .Name | relURL }}" 
-        alt="{{ .Name }}" />
-    {{ end }}
-  </div>
-{{ end }}
+{{ $images := .Resources.ByType "image" }}
+<div class="gallery">
+  {{ range $images }}
+    <img 
+      class="img-fluid" 
+      src="{{ .RelPermalink }}" 
+      alt="" />
+  {{ end }}
+</div>
