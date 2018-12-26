@@ -7,7 +7,7 @@
             {{ range .Pages.GroupByParam "country" "title"}}
                 {{ $countryId := .Key | urlize}}
                 <li id="{{ $regionId }}_{{ $countryId }}">
-                    <h3 class="has-mt-5">{{ .Key }}</h3>
+                    <h3 class="has-mt-6">{{ .Key }}</h3>
                     <ul class="list-unstyle grid has-cols-2 has-cols-md-3 has-cols-lg-4 has-cols-xl-5 has-grid-gap-2 has-grid-gap-sm-3">
                         {{ range .Pages.ByTitle }}
                             <li class="thumbnail">
