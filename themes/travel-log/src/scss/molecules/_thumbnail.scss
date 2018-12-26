@@ -7,7 +7,7 @@
 
     &:hover, &:focus {
       img {
-        opacity: 1;
+        opacity: 0.7;
       }
     }
 
@@ -17,7 +17,7 @@
 
     img {
       margin-bottom: spacer(2);
-      opacity: 0.85;
+      opacity: 1;
       transition: opacity 0.5s ease-in-out;
     }
   }
