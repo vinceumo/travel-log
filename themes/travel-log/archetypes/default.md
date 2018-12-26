@@ -6,4 +6,5 @@ description: ""
 type: post
 region: ""
 country: ""
+thumbnail: ""
 ---
