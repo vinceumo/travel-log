@@ -6,7 +6,8 @@ module.exports = {
     bundle: {
         scriptsBundleMain: {
             scripts: [
-                //'./Content/js/customs/global.js'
+                './themes/travel-log/src/js/vendors/inert.js',
+                './themes/travel-log/src/js/customs/navigation.js'
             ],
             options: {
                 rev: false, // {(boolean|string|Array)}

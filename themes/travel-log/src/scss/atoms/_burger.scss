@@ -52,7 +52,7 @@ button.burger {
     }
   }
 
-  &.is-active {
+  &.is-open {
     span.burger-icon {
       &:after {
         transform: rotate(135deg)translate(7px, -7px);

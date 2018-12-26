@@ -1,8 +1,24 @@
-<div class="nav-bar">
-    <div class="brand">
-      <a href="/"><img src="/images/logo.svg" alt="Travel Log - Logo"></a>
-      <p><a class="is-d-none is-d-sm-inline" href="https://www.vincent-humeau.com">By Vincent Humeau</a></p>
-    </div>
-    <button class="burger"><span class="burger-icon"><span></span></span> <span class="screen-reader-only">Menu</span></button>
+<div class="nav-bar-container">
+    <div class="nav-bar container">
+        <div class="brand">
+            <a href="/"><img src="/images/logo.svg" alt="Travel Log - Logo"></a>
+            <p><a class="is-d-none is-d-sm-inline" href="https://www.vincent-humeau.com">By Vincent Humeau</a></p>
+          </div>
+          <button class="burger"><span class="burger-icon"><span></span></span> <span class="screen-reader-only">Menu</span></button>
+    </div> 
 </div>
 
+<nav class="main-navigation" id="main-navigation" inert>
+  <ul>
+      {{ range .Site.Pages.GroupByParam "region" "title"}}
+        {{ $regionId := .Key | urlize}}
+        <li><a href="/#{{ $regionId }}">{{ .Key }}</a>
+        <ul>
+            {{ range .Pages.GroupByParam "country" "title"}}
+                {{ $countryId := .Key | urlize}}
+                <li><a href="/#{{ $regionId }}_{{ $countryId }}">{{ .Key }}</a></li>
+            {{ end }}
+        </ul></li>
+    {{ end }}
+  </ul>
+</nav>
