@@ -27,7 +27,6 @@
 //vendors
 @import "vendors/bootstrap-reboot";
 @import "vendors/family";
-@import "vendors/icomoon/icomoon";
 
 // For accessibility testing to be remove in prod
 // @import "vendors/a11y/a11y-en";
@@ -44,6 +43,7 @@
 // @import "atoms/btn";
 @import "atoms/burger";
 @import "atoms/focus";
+@import "atoms/hr";
 @import "atoms/img-fluid";
 @import "atoms/link";
 @import "atoms/media-and-bg-cover";
