@@ -1,7 +1,7 @@
 <div class="nav-bar-container">
     <div class="nav-bar container">
         <div class="brand">
-            <a href="/"><img src="/images/logo.svg" alt="Travel Log - Logo"></a>
+            <a href="{{ $.Site.BaseURL }}"><img src="{{ $.Site.BaseURL }}/images/logo.svg" alt="Travel Log - Logo"></a>
             <p><a class="is-d-none is-d-sm-inline" href="https://www.vincent-humeau.com">By Vincent Humeau</a></p>
         </div>
         <button class="burger"><span class="burger-icon"><span></span></span> <span class="screen-reader-only">Menu</span></button>
@@ -14,11 +14,11 @@
             {{ range .Site.Pages.GroupByParam "region" "title"}}
             {{ $regionId := .Key | urlize}}
             <li class="has-mt-4">
-                <b><a href="/#{{ $regionId }}">{{ .Key }}</a></b>
+                <b><a href="{{ $.Site.BaseURL }}/#{{ $regionId }}">{{ .Key }}</a></b>
                 <ul class="list-unstyle">
                     {{ range .Pages.GroupByParam "country" "title"}}
                     {{ $countryId := .Key | urlize}}
-                    <li><a href="/#{{ $regionId }}_{{ $countryId }}">{{ .Key }}</a></li>
+                    <li><a href="{{ $.Site.BaseURL }}/#{{ $regionId }}_{{ $countryId }}">{{ .Key }}</a></li>
                     {{ end }}
                 </ul>
             </li>

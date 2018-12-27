@@ -1,11 +1,7 @@
-baseURL = "http://example.org/"
+BaseURL = "https://vinceumo.github.io/travel-log/"
 languageCode = "en-gb"
 title = "Travel Log"
 theme = "travel-log"
-
 publishDir = "docs"
-
-BaseURL = "travel-log"
 canonifyurls = true
-
 disableKinds = ["taxonomy","taxonomyTerm"]

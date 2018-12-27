@@ -3,7 +3,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>{{ block "title" . }}{{ .Site.Title }} | {{ .Title }}{{if isset .Params "country"}} | {{ .Params.Country }}{{ end }}{{if isset .Params "region"}} | {{ .Params.Region }}{{ end }}{{ end }}</title>
-  <link rel="stylesheet" href="/css/screen.min.css">
+  <link rel="stylesheet" href="{{ $.Site.BaseURL }}/css/screen.min.css">
   <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=Map,Set,Element.prototype.matches,Node.prototype.contains"></script>
-  <script src="/js/scriptsBundleMain.js"></script>
+  <script src="{{ $.Site.BaseURL }}/js/scriptsBundleMain.js"></script>
 </head>
