@@ -6,5 +6,5 @@ description: ""
 type: post
 region: "Southeast Asia"
 country: "Burma (Myanmar)"
-thumbnail: "kalaw-1.jpg"
+thumbnail: "kalaw-7.jpg"
 ---
