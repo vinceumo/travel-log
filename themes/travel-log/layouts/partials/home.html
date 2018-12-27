@@ -1,5 +1,7 @@
 <div class="container">
-    {{ .Content }}
+    <div class="has-mt-6">
+        {{ .Content }}
+    </div>
     {{ range .Site.Pages.GroupByParam "region" "title"}}
         {{ $regionId := .Key | urlize}}
         <h2 class="has-mt-7" id="{{ $regionId }}">{{ .Key }}</h2>

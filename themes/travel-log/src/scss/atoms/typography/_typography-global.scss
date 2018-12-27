@@ -2,7 +2,7 @@
 // Root
 // ------------------------------
 html {
-  font-size: calc(#{font-size(root)} + 2px);
+  font-size: calc(#{font-size(root)} - 2px);
 
   @include min(#{bp(sm)}) {
     font-size: font-size(root);
