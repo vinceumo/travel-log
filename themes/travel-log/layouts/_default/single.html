@@ -1,7 +1,13 @@
 {{ define "main" }}
   {{- partial "header--single.html" . -}}
   <div class="container">
-    {{ .Content }}
-    {{- partial "gallery.html" . -}}
+    {{ if .Content }}
+      <div class="has-mb-5">
+        {{ .Content }}
+      </div>
+    {{ end }}
+    {{ if .Params.HasGallery }}
+      {{- partial "gallery.html" . -}}
+    {{ end }}
   </div>
 {{ end }}

@@ -7,6 +7,7 @@ module.exports = {
         scriptsBundleMain: {
             scripts: [
                 './themes/travel-log/src/js/vendors/inert.js',
+                './themes/travel-log/src/js/customs/global.js',
                 './themes/travel-log/src/js/customs/navigation.js'
             ],
             options: {

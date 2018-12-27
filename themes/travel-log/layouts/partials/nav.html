@@ -3,22 +3,26 @@
         <div class="brand">
             <a href="/"><img src="/images/logo.svg" alt="Travel Log - Logo"></a>
             <p><a class="is-d-none is-d-sm-inline" href="https://www.vincent-humeau.com">By Vincent Humeau</a></p>
-          </div>
-          <button class="burger"><span class="burger-icon"><span></span></span> <span class="screen-reader-only">Menu</span></button>
-    </div> 
+        </div>
+        <button class="burger"><span class="burger-icon"><span></span></span> <span class="screen-reader-only">Menu</span></button>
+    </div>
 </div>
 
-<nav class="main-navigation" id="main-navigation" inert>
-  <ul>
-      {{ range .Site.Pages.GroupByParam "region" "title"}}
-        {{ $regionId := .Key | urlize}}
-        <li><a href="/#{{ $regionId }}">{{ .Key }}</a>
-        <ul>
-            {{ range .Pages.GroupByParam "country" "title"}}
-                {{ $countryId := .Key | urlize}}
-                <li><a href="/#{{ $regionId }}_{{ $countryId }}">{{ .Key }}</a></li>
+<nav class="main-navigation has-text-center" id="main-navigation" inert>
+    <div class="container">
+        <ul class="list-unstyle">
+            {{ range .Site.Pages.GroupByParam "region" "title"}}
+            {{ $regionId := .Key | urlize}}
+            <li class="has-mt-4">
+                <b><a href="/#{{ $regionId }}">{{ .Key }}</a></b>
+                <ul class="list-unstyle">
+                    {{ range .Pages.GroupByParam "country" "title"}}
+                    {{ $countryId := .Key | urlize}}
+                    <li><a href="/#{{ $regionId }}_{{ $countryId }}">{{ .Key }}</a></li>
+                    {{ end }}
+                </ul>
+            </li>
             {{ end }}
-        </ul></li>
-    {{ end }}
-  </ul>
+        </ul>
+    </div>
 </nav>

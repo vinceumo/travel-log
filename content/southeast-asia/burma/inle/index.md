@@ -3,6 +3,7 @@ title: "Inle"
 date: 2015-05-02T08:26:41Z
 draft: false
 description: ""
+hasGallery: true
 type: post
 region: "Southeast Asia"
 country: "Burma (Myanmar)"

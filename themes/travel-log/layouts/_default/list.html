@@ -6,7 +6,9 @@
             {{ range .Site.RegularPages }}
                 {{ if .IsDescendant $thisPage}}
                 <li>
-                    <a href="{{ .URL }}">{{ .Title }}</a>
+                    <a href="{{ .URL }}">
+                        <b>{{ .Title }}</b> | {{ .Params.country }}, {{ .Params.region }} | <i>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</i>
+                    </a>
                 </li>
                 {{ end }}
             {{ end }}
