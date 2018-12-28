@@ -6,7 +6,7 @@
   <meta name="description" content="My photographic travel log">
   <title>{{ block "title" . }}{{ .Site.Title }} | {{ .Title }}{{if isset .Params "country"}} | {{ .Params.Country }}{{ end }}{{if isset .Params "region"}} | {{ .Params.Region }}{{ end }}{{ end }}</title>
 
-  <link rel="manifest" href="{{ $.Site.BaseURL }}/images/favicons/site.webmanifest">
+  <link rel="manifest" href="{{ $.Site.BaseURL }}/manifest.json">
   <meta name="msapplication-config" content="{{ $.Site.BaseURL }}/browserconfig.xml">
 
   <link rel="apple-touch-icon" sizes="180x180" href="{{ $.Site.BaseURL }}/images/favicons/apple-touch-icon.png">
