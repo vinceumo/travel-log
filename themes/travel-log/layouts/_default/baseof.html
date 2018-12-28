@@ -7,5 +7,12 @@
             {{- block "main" . }}{{- end }}
         </main>
         {{- partial "footer.html" . -}}
+        <script>
+            if ('serviceWorker' in navigator) {
+                window.addEventListener('load', () => {
+                    navigator.serviceWorker.register('{{ $.Site.BaseURL }}/sw.js');
+                });
+            }
+        </script>
     </body>
 </html>

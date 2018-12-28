@@ -3,7 +3,21 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="author" content="Vincent Humeau">
+  <meta name="description" content="My photographic travel log">
   <title>Travel Log | Hanoi | Vietnam | Southeast Asia</title>
+
+  <link rel="manifest" href="https://vinceumo.github.io/travel-log/images/favicons/site.webmanifest">
+  <meta name="msapplication-config" content="https://vinceumo.github.io/travel-log/browserconfig.xml">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="https://vinceumo.github.io/travel-log/images/favicons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://vinceumo.github.io/travel-log/images/favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://vinceumo.github.io/travel-log/images/favicons/favicon-16x16.png">
+  <link rel="mask-icon" href="https://vinceumo.github.io/travel-log/images/favicons/safari-pinned-tab.svg" color="#000000">
+  <link rel="shortcut icon" href="https://vinceumo.github.io/travel-log/favicon.ico">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="theme-color" content="#ffffff">
+
   <link rel="stylesheet" href="https://vinceumo.github.io/travel-log/css/screen.min.css">
   <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=Map,Set,Element.prototype.matches,Node.prototype.contains"></script>
   <script src="https://vinceumo.github.io/travel-log/js/scriptsBundleMain.js"></script>
@@ -258,5 +272,12 @@
     </ul>
   </div>
 </footer>
-</body>
+<script>
+            if ('serviceWorker' in navigator) {
+                window.addEventListener('load', () => {
+                    navigator.serviceWorker.register('https:\/\/vinceumo.github.io\/travel-log/sw.js');
+                });
+            }
+        </script>
+    </body>
 </html>

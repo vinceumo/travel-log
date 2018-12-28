@@ -15,7 +15,7 @@
                             <li class="thumbnail">
                                 <a href="{{ .URL }}" class="post__title">
                                     {{ $thumbnail := .Resources.GetMatch (printf "**%s" .Params.thumbnail) }}
-                                    {{ $thumbnailCrop := $thumbnail.Fill "500x500 center" }}
+                                    {{ $thumbnailCrop := $thumbnail.Fill "300x300 center" }}
                                     <img class="img-fluid" src="{{ $thumbnailCrop.RelPermalink }}" alt=""><br>
                                     <b>{{ .Title }}</b><br>
                                     {{ .Params.Country }}
