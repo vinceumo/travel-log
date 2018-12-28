@@ -11,14 +11,14 @@
     {{ end }}
     <ul class="list-unstyle is-d-flex is-justify-between has-mt-7">
       {{if .PrevPage}}
-      <li>
+      <li class="has-mr-2">
         <a href="{{ .PrevPage.URL }}">
            < Previous | <b>{{ .PrevPage.Title }}, {{ .PrevPage.Params.Country }}</b>
         </a>
       </li>
       {{ end }}
       {{if .NextPage}}
-      <li class="has-text-right">
+      <li class="has-text-right has-ml-2">
         <a href="{{ .NextPage.URL }}">
             <b>{{ .NextPage.Title }}, {{ .NextPage.Params.Country }}</b> | Next >
         </a>
