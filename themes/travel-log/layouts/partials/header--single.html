@@ -7,9 +7,9 @@
 <header class="header has-mb-7">
   <div class="header--img has-mb-6">
     <img src="{{ $thumbnailCropXs.RelPermalink }}" 
-      srcset="{{ $thumbnailCropSm.RelPermalink }} 600w,
+    srcset="{{ $thumbnailCropSm.RelPermalink }} 600w,
       {{ $thumbnailCropMd.RelPermalink }} 900w,
-      {{ $thumbnailCropLg.RelPermalink }} 1200w
+      {{ $thumbnailCropLg.RelPermalink }} 1200w,
       {{ $thumbnailCropXl.RelPermalink }} 1800w"
       alt=""
       aria-hidden="true">
@@ -22,10 +22,11 @@
           {{.Params.Region}}
       </p>
       <div class="img-container">
-        <img class="img-fluid" src="{{ $thumbnailCropXs.RelPermalink }}" 
-          srcset="{{ $thumbnailCropSm.RelPermalink }} 600w,
+        <img class="img-fluid" 
+        src="{{ $thumbnailCropXs.RelPermalink }}" 
+        srcset="{{ $thumbnailCropSm.RelPermalink }} 600w,
           {{ $thumbnailCropMd.RelPermalink }} 900w,
-          {{ $thumbnailCropLg.RelPermalink }} 1200w
+          {{ $thumbnailCropLg.RelPermalink }} 1200w,
           {{ $thumbnailCropXl.RelPermalink }} 1800w"
           alt=""
           aria-hidden="true">
