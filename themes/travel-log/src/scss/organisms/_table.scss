@@ -1,0 +1,18 @@
+table {
+  tr {
+    @include even() {
+      td {
+        background-color: color(light, dark);
+      }
+    }
+  }
+
+  &.is-link-listing {
+    tr {
+
+      td, th {
+        padding: spacer(1) spacer(2);
+      }
+    }
+  }
+}

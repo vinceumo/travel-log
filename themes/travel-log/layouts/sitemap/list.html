@@ -1,0 +1,48 @@
+{{ define "main" }}
+<div class="container">
+    <h1 class="title">{{ .Title }}</h1>
+    <div>
+        <label for="postsOrder">Order by:</label>
+        <select name="postsOrder" id="postsOrder">
+            <option value="region">Region</option>
+            <option value="country">Country</option>
+            <option value="location">Location</option>
+            <option value="date" selected>Date</option>
+        </select>
+    </div>
+    
+    <table class="is-link-listing">
+        <tr>
+            <th>Region</th>
+            <th>Country</th>
+            <th>Location</th>
+            <th>Date</th>
+            <th>Link to post</th>
+        </tr>
+        {{ range .Site.Pages }}
+        {{if .Params.country}}
+        <tr>
+            <td>
+                {{ .Params.region }}
+            </td>
+            <td>
+                {{ .Params.country }}
+            </td>
+            <td>
+                {{ .Title }}
+            </td>
+            <td>
+                {{ dateFormat "Monday, Jan 2, 2006" .Date }}
+            </td>
+            <td>
+                <a href="{{ .URL }}">
+                    View post
+                </a>
+            </td>
+        </tr>
+        {{ end }}
+        {{ end }}
+    </table>
+    {{ .Content }}
+</div>
+{{ end }}
