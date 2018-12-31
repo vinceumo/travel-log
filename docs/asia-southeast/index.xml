@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asia (Southeast) on Travel Log</title>
+    <link>/asia-southeast/</link>
+    <description>Recent content in Asia (Southeast) on Travel Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 07 Nov 2018 13:21:02 +0000</lastBuildDate>
+    
+	<atom:link href="/asia-southeast/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Singapore</title>
+      <link>/asia-southeast/singapore/</link>
+      <pubDate>Fri, 20 Feb 2015 08:26:41 +0000</pubDate>
+      
+      <guid>/asia-southeast/singapore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bandar Seri Begawan</title>
+      <link>/asia-southeast/brunei/</link>
+      <pubDate>Tue, 17 Feb 2015 08:26:41 +0000</pubDate>
+      
+      <guid>/asia-southeast/brunei/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

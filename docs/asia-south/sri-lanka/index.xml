@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sri Lanka on Travel Log</title>
+    <link>/asia-south/sri-lanka/</link>
+    <description>Recent content in Sri Lanka on Travel Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 26 Dec 2018 13:21:02 +0000</lastBuildDate>
+    
+	<atom:link href="/asia-south/sri-lanka/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adam&#39;s Peak</title>
+      <link>/asia-south/sri-lanka/adams-peak/</link>
+      <pubDate>Mon, 17 Aug 2015 08:26:41 +0000</pubDate>
+      
+      <guid>/asia-south/sri-lanka/adams-peak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polonnaruwa</title>
+      <link>/asia-south/sri-lanka/polonnaruwa/</link>
+      <pubDate>Mon, 17 Aug 2015 08:26:41 +0000</pubDate>
+      
+      <guid>/asia-south/sri-lanka/polonnaruwa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sigiryia</title>
+      <link>/asia-south/sri-lanka/sigiryia/</link>
+      <pubDate>Sat, 15 Aug 2015 08:26:41 +0000</pubDate>
+      
+      <guid>/asia-south/sri-lanka/sigiryia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ella</title>
+      <link>/asia-south/sri-lanka/ella/</link>
+      <pubDate>Wed, 12 Aug 2015 08:26:41 +0000</pubDate>
+      
+      <guid>/asia-south/sri-lanka/ella/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unawatuna</title>
+      <link>/asia-south/sri-lanka/unawatuna/</link>
+      <pubDate>Fri, 07 Aug 2015 08:26:41 +0000</pubDate>
+      
+      <guid>/asia-south/sri-lanka/unawatuna/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

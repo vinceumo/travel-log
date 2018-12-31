@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thailand on Travel Log</title>
+    <link>/asia-southeast/thailand/</link>
+    <description>Recent content in Thailand on Travel Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 26 Dec 2018 13:21:02 +0000</lastBuildDate>
+    
+	<atom:link href="/asia-southeast/thailand/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chiang Rai</title>
+      <link>/asia-southeast/thailand/chiang-rai/</link>
+      <pubDate>Tue, 18 Nov 2014 08:26:41 +0000</pubDate>
+      
+      <guid>/asia-southeast/thailand/chiang-rai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pai</title>
+      <link>/asia-southeast/thailand/pai/</link>
+      <pubDate>Tue, 18 Nov 2014 08:26:41 +0000</pubDate>
+      
+      <guid>/asia-southeast/thailand/pai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bangkok</title>
+      <link>/asia-southeast/thailand/bangkok/</link>
+      <pubDate>Sun, 02 Nov 2014 08:26:41 +0000</pubDate>
+      
+      <guid>/asia-southeast/thailand/bangkok/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chiang Mai</title>
+      <link>/asia-southeast/thailand/chiang-mai/</link>
+      <pubDate>Sun, 02 Nov 2014 08:26:41 +0000</pubDate>
+      
+      <guid>/asia-southeast/thailand/chiang-mai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ayutthaya</title>
+      <link>/asia-southeast/thailand/ayutthaya/</link>
+      <pubDate>Thu, 30 Oct 2014 08:26:41 +0000</pubDate>
+      
+      <guid>/asia-southeast/thailand/ayutthaya/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

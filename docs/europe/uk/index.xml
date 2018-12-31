@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>United Kingdom on Travel Log</title>
+    <link>/europe/uk/</link>
+    <description>Recent content in United Kingdom on Travel Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 31 Dec 2018 14:50:00 +0000</lastBuildDate>
+    
+	<atom:link href="/europe/uk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>London</title>
+      <link>/europe/uk/london/</link>
+      <pubDate>Mon, 31 Dec 2018 14:40:41 +0000</pubDate>
+      
+      <guid>/europe/uk/london/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
