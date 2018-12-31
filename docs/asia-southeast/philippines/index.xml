@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philippines on Travel Log</title>
-    <link>/asia-southeast/philippines/</link>
+    <link>https://vinceumo.github.io/travel-log/asia-southeast/philippines/</link>
     <description>Recent content in Philippines on Travel Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 26 Dec 2018 13:21:02 +0000</lastBuildDate>
     
-	<atom:link href="/asia-southeast/philippines/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vinceumo.github.io/travel-log/asia-southeast/philippines/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Puerto Galera</title>
-      <link>/asia-southeast/philippines/puerto-galera/</link>
+      <link>https://vinceumo.github.io/travel-log/asia-southeast/philippines/puerto-galera/</link>
       <pubDate>Sun, 27 Nov 2016 08:26:41 +0000</pubDate>
       
-      <guid>/asia-southeast/philippines/puerto-galera/</guid>
+      <guid>https://vinceumo.github.io/travel-log/asia-southeast/philippines/puerto-galera/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coron</title>
-      <link>/asia-southeast/philippines/coron/</link>
+      <link>https://vinceumo.github.io/travel-log/asia-southeast/philippines/coron/</link>
       <pubDate>Thu, 17 Nov 2016 08:26:41 +0000</pubDate>
       
-      <guid>/asia-southeast/philippines/coron/</guid>
+      <guid>https://vinceumo.github.io/travel-log/asia-southeast/philippines/coron/</guid>
       <description></description>
     </item>
     
     <item>
       <title>El Nido</title>
-      <link>/asia-southeast/philippines/el-nido/</link>
+      <link>https://vinceumo.github.io/travel-log/asia-southeast/philippines/el-nido/</link>
       <pubDate>Sun, 13 Nov 2016 08:26:41 +0000</pubDate>
       
-      <guid>/asia-southeast/philippines/el-nido/</guid>
+      <guid>https://vinceumo.github.io/travel-log/asia-southeast/philippines/el-nido/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bohol</title>
-      <link>/asia-southeast/philippines/bohol/</link>
+      <link>https://vinceumo.github.io/travel-log/asia-southeast/philippines/bohol/</link>
       <pubDate>Tue, 08 Nov 2016 08:26:41 +0000</pubDate>
       
-      <guid>/asia-southeast/philippines/bohol/</guid>
+      <guid>https://vinceumo.github.io/travel-log/asia-southeast/philippines/bohol/</guid>
       <description></description>
     </item>
     

@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laos on Travel Log</title>
-    <link>/asia-southeast/laos/</link>
+    <link>https://vinceumo.github.io/travel-log/asia-southeast/laos/</link>
     <description>Recent content in Laos on Travel Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 26 Dec 2018 13:21:02 +0000</lastBuildDate>
     
-	<atom:link href="/asia-southeast/laos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vinceumo.github.io/travel-log/asia-southeast/laos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>4000 islands</title>
-      <link>/asia-southeast/laos/4000-islands/</link>
+      <link>https://vinceumo.github.io/travel-log/asia-southeast/laos/4000-islands/</link>
       <pubDate>Thu, 27 Nov 2014 08:26:41 +0000</pubDate>
       
-      <guid>/asia-southeast/laos/4000-islands/</guid>
+      <guid>https://vinceumo.github.io/travel-log/asia-southeast/laos/4000-islands/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kuang Si Waterfall</title>
-      <link>/asia-southeast/laos/kuang-si-waterfall/</link>
+      <link>https://vinceumo.github.io/travel-log/asia-southeast/laos/kuang-si-waterfall/</link>
       <pubDate>Sun, 23 Nov 2014 08:26:41 +0000</pubDate>
       
-      <guid>/asia-southeast/laos/kuang-si-waterfall/</guid>
+      <guid>https://vinceumo.github.io/travel-log/asia-southeast/laos/kuang-si-waterfall/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Luang Prabang</title>
-      <link>/asia-southeast/laos/luang-prabang/</link>
+      <link>https://vinceumo.github.io/travel-log/asia-southeast/laos/luang-prabang/</link>
       <pubDate>Sat, 22 Nov 2014 08:26:41 +0000</pubDate>
       
-      <guid>/asia-southeast/laos/luang-prabang/</guid>
+      <guid>https://vinceumo.github.io/travel-log/asia-southeast/laos/luang-prabang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vientiane</title>
-      <link>/asia-southeast/laos/vientiane/</link>
+      <link>https://vinceumo.github.io/travel-log/asia-southeast/laos/vientiane/</link>
       <pubDate>Sat, 22 Nov 2014 08:26:41 +0000</pubDate>
       
-      <guid>/asia-southeast/laos/vientiane/</guid>
+      <guid>https://vinceumo.github.io/travel-log/asia-southeast/laos/vientiane/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Huay Xai</title>
-      <link>/asia-southeast/laos/huay-xai/</link>
+      <link>https://vinceumo.github.io/travel-log/asia-southeast/laos/huay-xai/</link>
       <pubDate>Wed, 19 Nov 2014 08:26:41 +0000</pubDate>
       
-      <guid>/asia-southeast/laos/huay-xai/</guid>
+      <guid>https://vinceumo.github.io/travel-log/asia-southeast/laos/huay-xai/</guid>
       <description></description>
     </item>
     

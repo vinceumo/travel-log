@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hungary on Travel Log</title>
-    <link>/europe/hungary/</link>
+    <link>https://vinceumo.github.io/travel-log/europe/hungary/</link>
     <description>Recent content in Hungary on Travel Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 31 Dec 2018 14:50:00 +0000</lastBuildDate>
     
-	<atom:link href="/europe/hungary/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vinceumo.github.io/travel-log/europe/hungary/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Budapest</title>
-      <link>/europe/hungary/budapest/</link>
+      <link>https://vinceumo.github.io/travel-log/europe/hungary/budapest/</link>
       <pubDate>Wed, 05 Dec 2018 14:40:41 +0000</pubDate>
       
-      <guid>/europe/hungary/budapest/</guid>
+      <guid>https://vinceumo.github.io/travel-log/europe/hungary/budapest/</guid>
       <description></description>
     </item>
     
