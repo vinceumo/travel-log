@@ -2,102 +2,147 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vietnam on Travel Log</title>
-    <link>/asia-southeast/vietnam/</link>
+    <link>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/</link>
     <description>Recent content in Vietnam on Travel Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 26 Dec 2018 13:21:02 +0000</lastBuildDate>
     
-	<atom:link href="/asia-southeast/vietnam/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vinceumo.github.io/travel-log/asia-southeast/vietnam/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Hanoi - 3</title>
+      <link>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/hanoi3/</link>
+      <pubDate>Sat, 13 Oct 2018 08:26:41 +0000</pubDate>
+      
+      <guid>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/hanoi3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hoi An - 2</title>
+      <link>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/hoi-an2/</link>
+      <pubDate>Thu, 11 Oct 2018 08:26:41 +0000</pubDate>
+      
+      <guid>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/hoi-an2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hue - 2</title>
+      <link>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/hue2/</link>
+      <pubDate>Sun, 07 Oct 2018 08:26:41 +0000</pubDate>
+      
+      <guid>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/hue2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ninh Binh, Tam Coc - 2</title>
+      <link>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/ninh-binh2/</link>
+      <pubDate>Fri, 05 Oct 2018 08:26:41 +0000</pubDate>
+      
+      <guid>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/ninh-binh2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Halong Bay - 2</title>
+      <link>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/halong-bay2/</link>
+      <pubDate>Wed, 03 Oct 2018 08:26:41 +0000</pubDate>
+      
+      <guid>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/halong-bay2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sapa</title>
-      <link>/asia-southeast/vietnam/sapa/</link>
+      <link>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/sapa/</link>
       <pubDate>Mon, 15 Jun 2015 08:26:41 +0000</pubDate>
       
-      <guid>/asia-southeast/vietnam/sapa/</guid>
+      <guid>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/sapa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hue</title>
-      <link>/asia-southeast/vietnam/hue/</link>
+      <link>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/hue/</link>
       <pubDate>Sun, 07 Jun 2015 08:26:41 +0000</pubDate>
       
-      <guid>/asia-southeast/vietnam/hue/</guid>
+      <guid>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/hue/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hoi An</title>
-      <link>/asia-southeast/vietnam/hoi-an/</link>
+      <link>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/hoi-an/</link>
       <pubDate>Fri, 05 Jun 2015 08:26:41 +0000</pubDate>
       
-      <guid>/asia-southeast/vietnam/hoi-an/</guid>
+      <guid>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/hoi-an/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hanoi</title>
-      <link>/asia-southeast/vietnam/hanoi2/</link>
+      <title>Hanoi - 2</title>
+      <link>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/hanoi2/</link>
       <pubDate>Sat, 25 Apr 2015 08:26:41 +0000</pubDate>
       
-      <guid>/asia-southeast/vietnam/hanoi2/</guid>
+      <guid>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/hanoi2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cantho</title>
-      <link>/asia-southeast/vietnam/cantho/</link>
+      <link>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/cantho/</link>
       <pubDate>Sat, 13 Dec 2014 08:26:41 +0000</pubDate>
       
-      <guid>/asia-southeast/vietnam/cantho/</guid>
+      <guid>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/cantho/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chaudoc</title>
-      <link>/asia-southeast/vietnam/chaudoc/</link>
+      <link>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/chaudoc/</link>
       <pubDate>Sat, 13 Dec 2014 08:26:41 +0000</pubDate>
       
-      <guid>/asia-southeast/vietnam/chaudoc/</guid>
+      <guid>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/chaudoc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hanoi</title>
-      <link>/asia-southeast/vietnam/hanoi/</link>
+      <link>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/hanoi/</link>
       <pubDate>Sat, 25 Oct 2014 08:26:41 +0000</pubDate>
       
-      <guid>/asia-southeast/vietnam/hanoi/</guid>
+      <guid>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/hanoi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mui Ne</title>
-      <link>/asia-southeast/vietnam/mui-ne/</link>
+      <link>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/mui-ne/</link>
       <pubDate>Wed, 08 Oct 2014 08:26:41 +0000</pubDate>
       
-      <guid>/asia-southeast/vietnam/mui-ne/</guid>
+      <guid>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/mui-ne/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ninh Binh, Tam Coc</title>
-      <link>/asia-southeast/vietnam/ninh-binh/</link>
+      <link>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/ninh-binh/</link>
       <pubDate>Wed, 24 Sep 2014 08:26:41 +0000</pubDate>
       
-      <guid>/asia-southeast/vietnam/ninh-binh/</guid>
+      <guid>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/ninh-binh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Halong Bay</title>
-      <link>/asia-southeast/vietnam/halong-bay/</link>
+      <link>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/halong-bay/</link>
       <pubDate>Sun, 14 Sep 2014 08:26:41 +0000</pubDate>
       
-      <guid>/asia-southeast/vietnam/halong-bay/</guid>
+      <guid>https://vinceumo.github.io/travel-log/asia-southeast/vietnam/halong-bay/</guid>
       <description></description>
     </item>
     

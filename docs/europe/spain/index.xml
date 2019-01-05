@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spain on Travel Log</title>
-    <link>/europe/spain/</link>
+    <link>https://vinceumo.github.io/travel-log/europe/spain/</link>
     <description>Recent content in Spain on Travel Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 26 Dec 2018 13:21:02 +0000</lastBuildDate>
     
-	<atom:link href="/europe/spain/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vinceumo.github.io/travel-log/europe/spain/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Barcelona</title>
-      <link>/europe/spain/barcelona/</link>
+      <link>https://vinceumo.github.io/travel-log/europe/spain/barcelona/</link>
       <pubDate>Fri, 15 Apr 2016 08:26:41 +0000</pubDate>
       
-      <guid>/europe/spain/barcelona/</guid>
+      <guid>https://vinceumo.github.io/travel-log/europe/spain/barcelona/</guid>
       <description>   </description>
     </item>
     

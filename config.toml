@@ -1,4 +1,4 @@
-BaseURL = ""
+BaseURL = "https://vinceumo.github.io/travel-log"
 languageCode = "en-gb"
 title = "Travel Log"
 theme = "travel-log"

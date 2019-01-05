@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Asia (Southeast) on Travel Log</title>
-    <link>/asia-southeast/</link>
+    <link>https://vinceumo.github.io/travel-log/asia-southeast/</link>
     <description>Recent content in Asia (Southeast) on Travel Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 07 Nov 2018 13:21:02 +0000</lastBuildDate>
     
-	<atom:link href="/asia-southeast/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vinceumo.github.io/travel-log/asia-southeast/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Singapore</title>
-      <link>/asia-southeast/singapore/</link>
+      <link>https://vinceumo.github.io/travel-log/asia-southeast/singapore/</link>
       <pubDate>Fri, 20 Feb 2015 08:26:41 +0000</pubDate>
       
-      <guid>/asia-southeast/singapore/</guid>
+      <guid>https://vinceumo.github.io/travel-log/asia-southeast/singapore/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bandar Seri Begawan</title>
-      <link>/asia-southeast/brunei/</link>
+      <link>https://vinceumo.github.io/travel-log/asia-southeast/brunei/</link>
       <pubDate>Tue, 17 Feb 2015 08:26:41 +0000</pubDate>
       
-      <guid>/asia-southeast/brunei/</guid>
+      <guid>https://vinceumo.github.io/travel-log/asia-southeast/brunei/</guid>
       <description></description>
     </item>
     
