@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Malaysia on Travel Log</title>
-    <link>https://vinceumo.github.io/travel-log/asia-southeast/malaysia/</link>
+    <link>/asia-southeast/malaysia/</link>
     <description>Recent content in Malaysia on Travel Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 26 Dec 2018 13:21:02 +0000</lastBuildDate>
     
-	<atom:link href="https://vinceumo.github.io/travel-log/asia-southeast/malaysia/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/asia-southeast/malaysia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Penang</title>
-      <link>https://vinceumo.github.io/travel-log/asia-southeast/malaysia/penang/</link>
+      <link>/asia-southeast/malaysia/penang/</link>
       <pubDate>Sat, 28 Feb 2015 08:26:41 +0000</pubDate>
       
-      <guid>https://vinceumo.github.io/travel-log/asia-southeast/malaysia/penang/</guid>
+      <guid>/asia-southeast/malaysia/penang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kuala Lumpur</title>
-      <link>https://vinceumo.github.io/travel-log/asia-southeast/malaysia/kuala-lumpur/</link>
+      <link>/asia-southeast/malaysia/kuala-lumpur/</link>
       <pubDate>Mon, 23 Feb 2015 08:26:41 +0000</pubDate>
       
-      <guid>https://vinceumo.github.io/travel-log/asia-southeast/malaysia/kuala-lumpur/</guid>
+      <guid>/asia-southeast/malaysia/kuala-lumpur/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Melaka</title>
-      <link>https://vinceumo.github.io/travel-log/asia-southeast/malaysia/melaka/</link>
+      <link>/asia-southeast/malaysia/melaka/</link>
       <pubDate>Sun, 22 Feb 2015 08:26:41 +0000</pubDate>
       
-      <guid>https://vinceumo.github.io/travel-log/asia-southeast/malaysia/melaka/</guid>
+      <guid>/asia-southeast/malaysia/melaka/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kuching</title>
-      <link>https://vinceumo.github.io/travel-log/asia-southeast/malaysia/kuching/</link>
+      <link>/asia-southeast/malaysia/kuching/</link>
       <pubDate>Sun, 15 Feb 2015 08:26:41 +0000</pubDate>
       
-      <guid>https://vinceumo.github.io/travel-log/asia-southeast/malaysia/kuching/</guid>
+      <guid>/asia-southeast/malaysia/kuching/</guid>
       <description></description>
     </item>
     
