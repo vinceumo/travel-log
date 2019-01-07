@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Japan on Travel Log</title>
+    <link>https://vinceumo.github.io/travel-log/asia-east/japan/</link>
+    <description>Recent content in Japan on Travel Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 26 Dec 2018 13:21:02 +0000</lastBuildDate>
+    
+	<atom:link href="https://vinceumo.github.io/travel-log/asia-east/japan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tokyo</title>
+      <link>https://vinceumo.github.io/travel-log/asia-east/japan/tokyo/</link>
+      <pubDate>Sun, 24 Aug 2008 08:26:41 +0000</pubDate>
+      
+      <guid>https://vinceumo.github.io/travel-log/asia-east/japan/tokyo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nikko</title>
+      <link>https://vinceumo.github.io/travel-log/asia-east/japan/nikko/</link>
+      <pubDate>Fri, 22 Aug 2008 08:26:41 +0000</pubDate>
+      
+      <guid>https://vinceumo.github.io/travel-log/asia-east/japan/nikko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kamakura</title>
+      <link>https://vinceumo.github.io/travel-log/asia-east/japan/kamakura/</link>
+      <pubDate>Wed, 20 Aug 2008 08:26:41 +0000</pubDate>
+      
+      <guid>https://vinceumo.github.io/travel-log/asia-east/japan/kamakura/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
